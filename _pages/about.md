@@ -19,42 +19,27 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 ## Publications
 
-  - Holo-omics review: (Accepted but waiting publication)
   - Assemblycomparator2: (Manuscript in prep.)
+  - Holo-omics review: (Manuscript in prep.)
   - This paper
   - That paper
 
 ## Activities
 
 ### Presentations
+  - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes"
   - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
   - [Ausme](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and presentation "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))".
   - [ISME](https://www.isme-microbes.org/) (International Society of Microbial Ecology) 2022, Lausanne Switzerland, poster "Holo something"
   
 
 ### Teaching
-  - NMBU Bio326 "Genomsekvensering; verktøy og analyser" 2023-2024 | Development of dry-lab course material and exercises.
-  - Course in Microbiology at Aarhus University Hospital 2021 | Rapid long-read sequencing of clinical isolates.
+  - NMBU Bio326 "Genomsekvensering; verktøy og analyser" 2023-2024 \| Development of dry-lab course material and exercises.
+  - Course in Microbiology at Aarhus University Hospital 2021 \| Rapid long-read sequencing of clinical isolates.
 
 
 ### Miscellaneous
-  - 
 
-
-
-
-
-
-## Links
-
-
-  - [github.com/cmkobel](https://github.com/cmkobel)
-
-  - [genomic.social/@cmkobel](https://genomic.social/@cmkobel)
-
-  - [G scholar page](https://scholar.google.com/citations?user=J9G72msAAAAJ&hl=no&oi=ao)
-
-  - [Orcid](https://orcid.org/0000-0002-4461-1159)
 
 ## Contact
 
