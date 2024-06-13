@@ -24,11 +24,11 @@ author:
   avatar           : "images/carl_mathias_kobel_portrait_framed.jpg"
   name             : "Carl M. Kobel"
   pronouns         : # example: "she/her"  
-  bio              : "Bioinformatician with a focus on microbiology and holo-omics"
-  location         : "Scandinavia"
-  employer         : "Norwegian University of Life Sciences"
+  bio              : #"Bioinformatician with a focus on microbiology and holo-omics"
+  location         : #"Scandinavia"
+  employer         : "NMBU, Norway"
   uri              : # URL
-  email            : "cmkobel at tutanota dot com" 
+  email            : #"cmkobel at tutanota dot com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
