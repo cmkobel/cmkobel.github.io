@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# About me
+
 
 Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. Carl’s perspective is that microbiomes are largely undervalued and that we should better understand the minute interactions within them. Carl adopts a big data inspired approach, enjoys tinkering with hardware, and building parallelizable bioinformatics pipelines to gain insights into large microbiome datasets.
 
