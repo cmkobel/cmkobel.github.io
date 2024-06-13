@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/carl_mathias_kobel_portrait_framed.jpg"
+  avatar           : "profile.png"
   name             : "Carl M. Kobel"
   pronouns         : # example: "she/her"  
   bio              : #"Bioinformatician with a focus on microbiology and holo-omics"
