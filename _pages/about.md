@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-
-
-
 # About me
 
 Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. Carl’s perspective is that microbiomes are largely undervalued and that we should better understand the minute interactions within them. Carl adopts a big data inspired approach, enjoys tinkering with hardware, and building parallelizable bioinformatics pipelines to gain insights into large microbiome datasets.
@@ -19,7 +16,7 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 ## Publications
 
-  - Assemblycomparator2: (Manuscript in prep.)
+  - CompareM2: (Manuscript in prep.)
   - Holo-omics review: (Manuscript in prep.)
   - This paper
   - That paper
@@ -28,9 +25,9 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 ### Presentations
   - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes"
-  - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
+  - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign, USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
   - [Ausme](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and presentation "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))".
-  - [ISME](https://www.isme-microbes.org/) (International Society of Microbial Ecology) 2022, Lausanne Switzerland, poster "Holo something"
+  - [ISME](https://www.isme-microbes.org/) (International Society of Microbial Ecology) 2022, Lausanne Switzerland, poster "Holo-omics and host-microbiome interactions in the herbivore rumen".
   
 
 ### Teaching
