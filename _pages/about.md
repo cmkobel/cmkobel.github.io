@@ -14,12 +14,10 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 
 
-## Publications
+## First-author publications
 
-  - CompareM2: (Manuscript in prep.)
+  - Application note: (Manuscript in prep.)
   - Holo-omics review: (Manuscript in prep.)
-  - This paper
-  - That paper
 
 ## Activities
 
