@@ -15,7 +15,7 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 ## First-author publications
 
-These are my only first-authored papers. Thankfully they're open access.
+These are Carl's only first-authored papers. Thankfully they're open access.
 
   - Application note: (Manuscript in prep.)
   - Holo-omics review: (Manuscript in prep.)
@@ -38,7 +38,7 @@ These are my only first-authored papers. Thankfully they're open access.
 
 #### Recipe maintainer
 
-I am maintaining the recipes for these Conda packages.
+Carl is maintaining the recipes for these Conda packages.
 
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)
