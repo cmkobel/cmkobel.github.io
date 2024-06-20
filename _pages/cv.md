@@ -33,7 +33,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
 
   - Infection tracking and surveillance of carbapenemase and vancomycinase producing entero-bacteria
   - Development of pipeline and phylodynamic analysis for governmental large scale sequencing of SARS-CoV-2
-  - Co-authorship of paper (MS submitted): "One Day in Denmark: *Haemophilus influenzae*" and??
+  - Co-authorship of several research papers
 
 **2019 - 2020: Student bioinformatician, part time.**
 
