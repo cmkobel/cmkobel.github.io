@@ -8,14 +8,10 @@ redirect_from:
 ---
 
 
-
-
 Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. Carl’s perspective is that microbiomes are largely undervalued and that we should better understand the minute interactions within them. Carl adopts a big data inspired approach, enjoys tinkering with hardware, and building parallelizable bioinformatics pipelines to gain insights into large microbiome datasets.
 
 
 ## First-author publications
-
-These are Carl's only first-authored papers. Thankfully they're open access.
 
   - Application note: (Manuscript in prep.)
   - Holo-omics review: (Manuscript in prep.)
@@ -36,9 +32,9 @@ These are Carl's only first-authored papers. Thankfully they're open access.
 
 ### Miscellaneous
 
-#### Recipe maintainer
+#### Conda recipe maintainer
 
-Carl is maintaining the recipes for these Conda packages.
+Maintaining the recipes for the following Conda packages.
 
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)
@@ -51,3 +47,4 @@ Carl is maintaining the recipes for these Conda packages.
   - 📧 cmkobel near tutanota dot com
 
   - 📞 +47 9664 seven eight seven six
+
