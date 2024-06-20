@@ -14,7 +14,7 @@ redirect_from:
 
 ## Employments
 
-**July 2021 - now, PhD candidate, full time**
+**2021 - now, PhD candidate, full time**
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
 
