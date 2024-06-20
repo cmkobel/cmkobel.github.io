@@ -75,7 +75,7 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Designing and upgrading workstations for specific bioinformatic needs.
   - HPC Distributed Resource Management: Slurm, Drmaa, Snakemake etc.
   - Git version control.
-  - Cryptographic handling of sensitive data
+  - Cryptographic handling of sensitive data.
 
 
 
