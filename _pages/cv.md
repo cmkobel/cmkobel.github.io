@@ -23,6 +23,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Researching fundamental questions in host-microbe interactions
   - Design and setup of custom computational platforms
   - Conference talks and outreach
+  - International collaborations
   - Development of teaching material and bioinformatic training of Master's students
 
 
