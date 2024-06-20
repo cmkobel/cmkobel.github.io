@@ -13,8 +13,8 @@ Carl M. Kobel is a bioinformatician and a PhD candidate in the MEMO group at NMB
 
 ## First-author publications
 
-  - Application note: (Manuscript in prep.)
-  - Holo-omics review: (Manuscript in prep.)
+  - Application note: Kobel et al. n.d., "CompareM2 is a genomes-to-report pipeline for comparing microbial genomes" (Under review)
+  - Holo-omics review: Kobel et al. 2024, "Integrating host and microbiome biology using holo-omics" (Accepted in RSC Molecular Omics).
 
 ## Activities
 
