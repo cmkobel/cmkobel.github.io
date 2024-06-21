@@ -70,16 +70,14 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Tutor for new students for two freshmen batches (years 2016 and 2018).
 
 
-
 ## Skills
 
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - GNU/Linux, Conda, containerization.
-  - Designing and upgrading workstations for specific bioinformatic needs.
+  - Designing and upgrading workstations for specific bioinformatic needs. Hardware/software/network/user integration.
   - HPC Distributed Resource Management: Slurm, Drmaa, Snakemake etc.
   - Git version control.
   - Cryptographic handling of sensitive data.
-
 
 
 ## Languages
@@ -88,7 +86,6 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Fluent English.
 
   
-
 ## Portfolio
 
   - [https://github.com/cmkobel](https://github.com/cmkobel)
