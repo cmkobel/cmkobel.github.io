@@ -12,7 +12,7 @@ redirect_from:
 
 ## Employments
 
-**2021 - now: PhD candidate, full time**
+**2021 - now: PhD fellow**
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
 
@@ -28,7 +28,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
     - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises. 
 
 
-**July 2020 - July 2021: Lead Bioinformatician, full time**
+**July 2020 - July 2021: Lead Bioinformatician**
 
 Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark.
 
@@ -39,7 +39,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
   - Management of student employees.
   - Co-authorship of several research papers.
 
-**2019 - 2020: Student bioinformatician, part time**
+**2019 - 2020: Student bioinformatician**
 
 Department of Clinical Microbiology, Aarhus University Hospital.
 
