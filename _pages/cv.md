@@ -39,7 +39,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
   - Management of student employees.
   - Co-authorship of several research papers.
 
-**2019 - 2020: Student bioinformatician, part time.**
+**2019 - 2020: Student bioinformatician, part time**
 
 Department of Clinical Microbiology, Aarhus University Hospital.
 
@@ -48,7 +48,7 @@ Department of Clinical Microbiology, Aarhus University Hospital.
 
 ## Studies
 
-**2018 - June 2020: Master's degree (MSc) in Bioinformatics.**
+**2018 - June 2020: Master's degree (MSc) in Bioinformatics**
 
 Bioinformatics Research Centre (BiRC), Aarhus University (AU).
 
@@ -59,7 +59,7 @@ Bioinformatics Research Centre (BiRC), Aarhus University (AU).
 
   
 
-**2015 - 2018: Bachelor's degree (BSc) in Biology.**
+**2015 - 2018: Bachelor's degree (BSc) in Biology**
 
 Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 
