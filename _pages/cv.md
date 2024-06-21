@@ -48,7 +48,7 @@ Department of Clinical Microbiology, Aarhus University Hospital.
 
 ## Studies
 
-**2018 - June 2020: Master's degree (MSc) in Bioinformatics**
+**2018 - 2020: Master's degree (MSc) in Bioinformatics**
 
 Bioinformatics Research Centre (BiRC), Aarhus University (AU).
 
