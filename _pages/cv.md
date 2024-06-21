@@ -21,7 +21,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Researching fundamental questions in host-microbe interactions.
   - Design and setup of custom computational platforms.
   - Conference talks and outreach.
-    - Oral presentations at AusME 2022, CGIF 2024, AHC 2024
+    - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
   - International collaborations.
     - Visiting researcher at UQ/ACE, QUT/CMR, CSIRO/Livestock.
   - Development of teaching material and bioinformatic training of Master's students.
