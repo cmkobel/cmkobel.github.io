@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
-
 ## Employments
 
 **2021 - now, PhD candidate, full time**
@@ -23,8 +21,11 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Researching fundamental questions in host-microbe interactions.
   - Design and setup of custom computational platforms.
   - Conference talks and outreach.
+    - Oral presentations at AusME 2022, CGIF 2024, AHC 2024
   - International collaborations.
+    - Visiting researcher at UQ/ACE, QUT/CMR, CSIRO/Livestock.
   - Development of teaching material and bioinformatic training of Master's students.
+    - NMBU Bio326 “Genomsekvensering; verktøy og analyser” 2023-2024 | Development of dry-lab course material and exercises. 
 
 
 **July 2020 - July 2021, Lead Bioinformatician, full time**
@@ -33,6 +34,9 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
 
   - Infection tracking and surveillance of carbapenemase and vancomycinase producing entero-bacteria.
   - Development of pipeline and phylodynamic analysis for governmental large scale sequencing of SARS-CoV-2.
+  - Teaching and communication across a diverse field professionals.
+    - Course in Microbiology at Aarhus University Hospital 2021 for MDs specializing in Microbiology | Rapid long-read sequencing of clinical isolates.
+  - Management of student employees.
   - Co-authorship of several research papers.
 
 **2019 - 2020: Student bioinformatician, part time.**
@@ -41,7 +45,6 @@ Department of Clinical Microbiology, Aarhus University Hospital.
 
   - Development of bioinformatics pipelines for assembly and comparison of genomes from microbial isolates.
   - Co-authorship of several research papers.
-  
 
 ## Studies
 
