@@ -19,7 +19,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Development of large scale bioinformatic pipelines for genomics and proteomics.
   - Network analysis and integration of multi-omic data.
   - Researching fundamental questions in host-microbe interactions.
-  - Design and setup of custom computational platforms.
+  - Design and configuration of a high performance multi-user computational platform for our entire research group.
   - Conference talks and outreach.
     - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
   - International collaborations.
