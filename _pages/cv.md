@@ -76,7 +76,7 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - GNU/Linux, Conda, containerization.
   - Designing and upgrading workstations for specific bioinformatic needs. Hardware/software/network/user integration.
-  - HPC Distributed Resource Management: Slurm, Drmaa, Snakemake etc.
+  - HPC Distributed Resource Management: Slurm, Drmaa, Snakemake, etc.
   - Git version control.
   - Cryptographic handling of sensitive data.
 
