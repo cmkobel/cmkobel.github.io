@@ -22,7 +22,7 @@ Looking for a postdoc position in the Copenhagen area from ~march 2024.
 ### Presentations
   - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes"
   - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign, USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
-  - [AusME](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and presentation "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))".
+  - [AusME](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and pitch "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))".
   - [ISME](https://www.isme-microbes.org/) (International Society of Microbial Ecology) 2022, Lausanne Switzerland, poster "Holo-omics and host-microbiome interactions in the herbivore rumen".
   
 
