@@ -25,7 +25,8 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - International collaborations.
     - Visiting researcher at UQ/ACE, QUT/CMR, CSIRO/Livestock.
   - Development of teaching material and bioinformatic training of Master's students.
-    - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises. 
+    - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
+  - Independent and original conceptualization and completion of scientific projects.
 
 
 **July 2020 - July 2021: Lead Bioinformatician**
