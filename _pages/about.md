@@ -14,8 +14,8 @@ Looking for a postdoc position in the Copenhagen area from ~march 2025.
 
 ## First-author publications
 
-  - *Software paper*: Kobel et al., CompareM2 is a genomes-to-report pipeline for comparing microbial genomes, Under review, n.d., [[Docs](https://comparem2.readthedocs.io/) \| [Repo](https://github.com/cmkobel/CompareM2)]
-  - *Holo-omics review*: Kobel et al., Integrating host and microbiome biology using holo-omics, RSC Molecular Omics, 2024, [https://doi.org/10.1039/D4MO00017J](https://doi.org/10.1039/D4MO00017J)
+  - *Software paper*: Kobel et al., CompareM2 is a genomes-to-report pipeline for comparing microbial genomes, Under review, n.d., [[docs](https://comparem2.readthedocs.io/) \| [repo](https://github.com/cmkobel/CompareM2)]
+  - *Holo-omics review*: Kobel et al., Integrating host and microbiome biology using holo-omics, RSC Molecular Omics, 2024, [[pdf](https://github.com/cmkobel/cmkobel.github.io/raw/master/files/Kobel%20et%20al.%202024%20-%20Integrating%20host%20and%20microbiome%20biology%20using%20holo-omics.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]
 
 ## Activities
 
