@@ -40,7 +40,7 @@ Maintaining the recipes for the following Conda packages.
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
   - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) ![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)
-  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://bioconda.github.io/recipes/assemblycomparator2/README.html) (archived)
+  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2) (archived)
 
 
 ## Contact
