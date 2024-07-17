@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4461-1159"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : https://pubmed.ncbi.nlm.nih.gov/?term=Kobel+CM&cauthor_id=37149537
   researchgate     : # URL
 
   # Repositories and software development
