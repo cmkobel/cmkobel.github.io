@@ -47,5 +47,5 @@ Maintaining the recipes for the following Conda packages.
 
   - 📧 cmkobel near tutanota dot com
 
-  - 📞 +47 9664 seven eight seven six
+  - 📞 +45 60 57 two eight nine nine
 
