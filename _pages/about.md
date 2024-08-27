@@ -42,6 +42,12 @@ Maintaining the recipes for the following Conda packages.
   - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) ![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)
   - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) ![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2) (archived)
 
+#### Open source wizardry
+
+Contribution of code to following open source projects.
+
+  - [snakemake](https://github.com/snakemake/snakemake/)
+
 
 ## Contact
 
