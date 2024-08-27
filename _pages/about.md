@@ -44,7 +44,7 @@ Maintaining the recipes for the following Conda packages.
 
 #### Open source wizardry
 
-Contribution of code to following open source projects.
+Contribution to the code base of the following projects.
 
   - [snakemake](https://github.com/snakemake/snakemake/)
 
