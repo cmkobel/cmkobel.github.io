@@ -55,3 +55,5 @@ Contribution to the code base of the following projects.
 
   - 📞 +45 60 57 two eight nine nine
 
+  - Signal App `cmkobel.77`
+
