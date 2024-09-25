@@ -21,7 +21,7 @@ Looking for a postdoc position in the Copenhagen area from ~march 2025.
 ## Activities
 
 ### Upcoming
-  - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: Friday, 17th of January 2025.
+  - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025.
 
 ### Previous presentations
   - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes" [[youtube](https://www.youtube.com/watch?v=gucJB-GG0WQ)]
