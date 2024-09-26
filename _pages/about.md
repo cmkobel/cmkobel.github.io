@@ -55,9 +55,9 @@ Contribution to the code base of the following projects.
 
 ## Contact
 
-  - 📧 cmkobel near tutanota dot com
+  - 📧 `cmkobel near tutanota dot com`
 
-  - 📞 +45 60 57 two eight nine nine
+  - 📞 `+45 60 57 two eight nine nine`
 
   - Signal App `cmkobel.77`
 
