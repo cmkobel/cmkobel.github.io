@@ -78,10 +78,11 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
+  - Parallelization of bioinformatic workflows using Snakemake.
   - Version control using Git.
   - Hardware/software/network/user integration of workstations for bioinformatic needs running GNU/Linux. 
   - Packaging and containerization using Conda, Docker, Apptainer.
-  - Bottleneck identification on HPCs using distributed resource management: Slurm, Drmaa, Snakemake, etc.
+  - Bottleneck identification on HPCs using distributed resource management.
   - Cryptographic handling of sensitive data.
 
 
