@@ -77,11 +77,11 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 ## Summary of skills
 
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
-  - Applied statistics, Dimensionality reduction, Network analysis, Modeling, Visualization of large datasets.
+  - Applied statistics, dimensionality reduction, network analysis, modeling, visualization of large datasets.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
   - Version control using Git.
-  - Hardware/software/network/user integration of workstations for bioinformatic needs running GNU/Linux. 
+  - Hardware/software/network/user integration and design of workstations for bioinformatic needs running GNU/Linux. 
   - Packaging and containerization using Conda, Docker, Apptainer.
   - Bottleneck identification on HPCs using distributed resource management.
   - Cryptographic handling of sensitive data.
