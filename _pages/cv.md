@@ -23,18 +23,20 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Conference talks and outreach.
     - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
   - International collaborations.
-    - Visiting researcher at UQ/ACE, QUT/CMR, CSIRO/Livestock.
+    - Visiting researcher at ACE (University of Queensland), CMR (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), CEH (University of Copenhagen). 
   - Development of teaching material and bioinformatic training of Master's students.
     - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
   - Independent and original conceptualization and completion of scientific projects.
   - Software engineering, containerization and distribution.
+  - Academic writing.
+  - Interpersonal skills and collaboration.
 
 
 **July 2020 - July 2021: Lead Bioinformatician**
 
 Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark.
 
-  - Infection tracking and surveillance of carbapenemase and vancomycinase producing entero-bacteria.
+  - Molecular infection tracking and surveillance of carbapenemase and vancomycinase producing entero-bacteria.
   - Development of pipeline and phylodynamic analysis for governmental large scale sequencing of SARS-CoV-2.
   - Teaching and communication across a diverse field professionals.
     - Course in Microbiology for MDs specializing in Microbiology "Rapid long-read sequencing of clinical isolates".
