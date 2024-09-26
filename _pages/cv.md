@@ -23,8 +23,8 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Conference talks and outreach.
     - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
   - International collaborations.
-    - Visiting researcher at ACE (University of Queensland), CMR (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), CEH (University of Copenhagen). 
-  - Development of teaching material and bioinformatic training of Master's students.
+    - Visiting researcher at Australian Centre for Ecogenomics (University of Queensland), Centre for Microbial Research (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), Center for Evolutionary Hologenomics (University of Copenhagen). 
+  - Training Master's students in metagenomic informatics.
     - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
   - Independent and original conceptualization and completion of scientific projects.
   - Software engineering, containerization and distribution.
@@ -76,11 +76,12 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 
 ## Skills
 
+  - A career-appropriate deep understanding of research gaps in molecular biology and the symbiotic relationships in a wide radiation of species.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
-  - GNU/Linux, Conda, containerization.
-  - Designing and upgrading workstations for specific bioinformatic needs. Hardware/software/network/user integration.
-  - HPC Distributed Resource Management: Slurm, Drmaa, Snakemake, etc.
-  - Git version control.
+  - Version control using Git.
+  - Hardware/software/network/user integration of workstations for bioinformatic needs running GNU/Linux. 
+  - Packaging and containerization using Conda, Docker, Apptainer.
+  - Bottleneck identification on HPCs using distributed resource management: Slurm, Drmaa, Snakemake, etc.
   - Cryptographic handling of sensitive data.
 
 
