@@ -74,9 +74,10 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Tutor for new students for two freshmen batches (years 2016 and 2018).
 
 
-## Skills
+## Summary of skills
 
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
+  - Applied statistics, Dimensionality reduction, Network analysis, Modeling.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
   - Version control using Git.
