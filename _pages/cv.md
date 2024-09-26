@@ -77,7 +77,7 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 ## Summary of skills
 
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
-  - Applied statistics, Dimensionality reduction, Network analysis, Modeling.
+  - Applied statistics, Dimensionality reduction, Network analysis, Modeling, Visualization of large datasets.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
   - Version control using Git.
