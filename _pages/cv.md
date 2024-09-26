@@ -76,7 +76,7 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
 
 ## Skills
 
-  - A career-appropriate deep understanding of research gaps in molecular biology and the symbiotic relationships in a wide radiation of species.
+  - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Version control using Git.
   - Hardware/software/network/user integration of workstations for bioinformatic needs running GNU/Linux. 
