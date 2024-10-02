@@ -53,12 +53,3 @@ Contribution to the code base of the following projects.
 
   - [snakemake](https://snakemake.github.io/)
 
-
-## Contact
-
-  - 📧 `cmkobel near tutanota dot com`
-
-  - 📞 `+45 60 57 two eight nine nine`
-
-  - Signal App `cmkobel.77`
-
