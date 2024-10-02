@@ -51,7 +51,7 @@ Maintaining the recipes for the following Conda packages.
 
 Contribution to the code base of the following projects.
 
-  - [snakemake](https://snakemake.github.io/) [ [git](https://github.com/snakemake/snakemake/) ]
+  - [snakemake](https://snakemake.github.io/)
 
 
 ## Contact
