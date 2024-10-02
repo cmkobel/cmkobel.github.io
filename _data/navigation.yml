@@ -3,9 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Contact"
-    url: /contact/
-
+#  - title: "Contact"
+#    url: /contact/
 #  - title: "Publications"
 #    url: /publications/
 #
