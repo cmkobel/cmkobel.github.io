@@ -49,7 +49,7 @@ Maintaining the recipes for the following Conda packages.
 
 #### Open source wizardry
 
-Contribution to the upstream code base of the following projects.
+Contribution to the upstream code base of:
 
   - [snakemake](https://snakemake.github.io/)
 
