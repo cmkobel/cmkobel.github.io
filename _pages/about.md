@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. My perspective is that microbiomes are largely undervalued and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets.
 
-Looking for a postdoc position in the Copenhagen area from ~march 2025.
+Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 ## First-author publications
 
