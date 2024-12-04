@@ -21,7 +21,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 ## Activities
 
 ### Upcoming
-  - [CEH](https://ceh.ku.dk/) travelling researcher presentation. "CompareM2 is a genomes-to-report pipeline". Copenhagen University, Denmark. Date: 11:00, Wednesday, 2nd of October 2024.
+  - [CEH](https://ceh.ku.dk/) travelling researcher presentation. "CompareM2 is a genomes-to-report pipeline". Copenhagen University, Denmark. Date: 11:00, Wednesday, 4th of December 2024.
   - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025.
 
 ### Previous presentations
