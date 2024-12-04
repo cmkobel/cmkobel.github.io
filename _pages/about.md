@@ -21,10 +21,11 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 ## Activities
 
 ### Upcoming
-  - [CEH](https://ceh.ku.dk/) travelling researcher presentation. "CompareM2 is a genomes-to-report pipeline". Copenhagen University, Denmark. Date: 11:00, Wednesday, 4th of December 2024.
+  
   - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025.
 
 ### Previous presentations
+  - [CEH](https://ceh.ku.dk/) travelling researcher presentation. "CompareM2 is a genomes-to-report pipeline". Copenhagen University, Denmark. Date: 11:00, Wednesday, 4th of December 2024. [[linkedin](https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]
   - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes" [[youtube](https://www.youtube.com/watch?v=gucJB-GG0WQ)]
   - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign, USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
   - [AusME](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and pitch "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))".
