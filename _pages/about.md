@@ -17,7 +17,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
   - *PhD thesis*: Kobel 2025, A Rumen-Centric View of the Cattle Holobiont, NMBU Library [preview pending]
   - *Research paper*: Kobel et al. 2024, Protozoal populations drive system-wide variation in the rumen microbiome, preprint/bioRxiv [preview pending]
   - *Software paper*: Kobel et al. 2024, CompareM2 is a genomes-to-report pipeline for comparing microbial genomes, preprint/bioRxiv [[pdf](https://www.biorxiv.org/content/10.1101/2024.07.12.603264v2.full.pdf) \| [doi](https://doi.org/10.1101/2024.07.12.603264 ) \| [docs](https://comparem2.readthedocs.io/) \| [repo](https://github.com/cmkobel/CompareM2) \| [bioconda](https://anaconda.org/bioconda/comparem2)]
-  - *Holo-omics review*: Kobel et al. 2024, Integrating host and microbiome biology using holo-omics, RSC Molecular Omics [[pdf](https://github.com/cmkobel/cmkobel.github.io/raw/master/files/Kobel%20et%20al.%202024%20-%20Integrating%20host%20and%20microbiome%20biology%20using%20holo-omics.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]
+  - *Review paper*: Kobel et al. 2024, Integrating host and microbiome biology using holo-omics, RSC Molecular Omics [[pdf](https://github.com/cmkobel/cmkobel.github.io/raw/master/files/Kobel%20et%20al.%202024%20-%20Integrating%20host%20and%20microbiome%20biology%20using%20holo-omics.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]
 
 ## Activities
 
