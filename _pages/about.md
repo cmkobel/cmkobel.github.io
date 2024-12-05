@@ -33,7 +33,8 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
   
 
 ### Teaching
-  - NMBU Bio326 "Genomsekvensering; verktøy og analyser" 2023-2024 \| Development of dry-lab course material and exercises, [[link](https://www.nmbu.no/en/course/bio326)]
+  - NMBU Bin420 "Bioinformatics for Functional Meta-Omics" 2024 \| Development of dry-lab course material and exercises, [[link](https://www.nmbu.no/en/course/BIN420)]
+  - NMBU Bio326 "Genome sequencing; tools and analyses" 2023-2024 \| Development of dry-lab course material and exercises, [[link](https://www.nmbu.no/en/course/bio326)]
   - Course in Microbiology at Aarhus University Hospital 2021 for MDs specializing in Microbiology \| Rapid long-read sequencing of clinical isolates.
 
 
