@@ -12,7 +12,7 @@ I'm a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. My
 
 Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
-## First-author publications
+## First-author publications/preprints
 
   - *PhD thesis*: Kobel 2025, A Rumen-Centric View of the Cattle Holobiont, NMBU Library [preview pending]
   - *Research paper*: Kobel et al. 2024, Protozoal populations drive system-wide variation in the rumen microbiome, preprint/bioRxiv [[pdf](https://www.biorxiv.org/content/10.1101/2024.12.05.626740.full.pdf) \| [doi](https://www.biorxiv.org/content/10.1101/2024.12.05.626740)]
