@@ -56,5 +56,5 @@ Contribution to the upstream code base of:
 
   - [CompareM2](https://github.com/cmkobel/CompareM2)
 
-  - [snakemake](https://snakemake.github.io/)
+  - [Snakemake](https://snakemake.github.io/)
 
