@@ -54,9 +54,8 @@ Maintaining the recipes for the following Conda packages.
 
 Contribution to the upstream code base of:
 
-  - [CompareM2](https://github.com/cmkobel/CompareM2) ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)
+  - [CompareM2 ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
 
-
-  - [Snakemake](https://snakemake.github.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)
+  - [Snakemake ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
 
 
