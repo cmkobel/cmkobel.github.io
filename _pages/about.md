@@ -53,10 +53,9 @@ Maintaining the recipes for the following Conda packages.
 
 #### Open source wizardry
 
-Contribution to the upstream code base of:
+Contributing to the upstream code base of these projects:
 
   - [CompareM2 ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
-
   - [Snakemake ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
 
 
