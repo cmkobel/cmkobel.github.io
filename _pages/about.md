@@ -23,7 +23,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 ### Upcoming
   
-  - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025.
+  - PhD defense. "The Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025. [[link](https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit)]
 
 ### Previous presentations
   - [CEH](https://ceh.ku.dk/) (Center for Evolutionary Hologenomics) Center guest presentation 2024, University of Copenhagen, "CompareM2 is a genomes-to-report pipeline" [[linkedin](https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]
