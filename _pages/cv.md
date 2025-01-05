@@ -25,7 +25,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - International collaborations.
     - Visiting researcher at Australian Centre for Ecogenomics (University of Queensland), Centre for Microbial Research (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), Center for Evolutionary Hologenomics (University of Copenhagen). 
   - Training Master's students in metagenomic informatics.
-    - BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
+    - BIN420: Bioinformatics for Functional Meta-Omics. BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
   - Independent and original conceptualization and completion of scientific projects.
   - Software engineering, containerization and distribution.
   - Academic writing.
@@ -80,10 +80,8 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
   - Applied statistics, dimensionality reduction, network analysis, modeling, visualization of large datasets.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
-  - Version control using Git.
   - Hardware/software/network/user integration and design of workstations for bioinformatic needs running GNU/Linux. 
   - Packaging and containerization using Conda, Docker, Apptainer.
-  - Bottleneck identification on HPCs using distributed resource management.
   - Cryptographic handling of sensitive data.
 
 
