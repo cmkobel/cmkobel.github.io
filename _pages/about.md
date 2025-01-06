@@ -52,7 +52,7 @@ Contributing to the upstream code base of these projects:
 
 #### Conda recipe maintainer
 
-Maintaining the Conda recipes for the following packages:
+Maintaining Conda recipes for the following packages:
 
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
