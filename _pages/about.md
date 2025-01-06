@@ -41,15 +41,6 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 ### Miscellaneous
 
-#### Conda recipe maintainer
-
-Maintaining the recipes for the following Conda packages:
-
-  - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
-  - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
-  - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)](https://anaconda.org/conda-forge/r-chnosz)
-  - [conda-forge::r-cpprouting](https://anaconda.org/conda-forge/r-cpprouting) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-cpprouting)](https://anaconda.org/conda-forge/r-cpprouting)
-  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://anaconda.org/bioconda/assemblycomparator2) (archived)
 
 #### Open source wizardry
 
@@ -58,4 +49,14 @@ Contributing to the upstream code base of these projects:
   - [CompareM2 ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
   - [Snakemake ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
 
+
+#### Conda recipe maintainer
+
+Maintaining the Conda recipes for the following packages:
+
+  - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
+  - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
+  - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)](https://anaconda.org/conda-forge/r-chnosz)
+  - [conda-forge::r-cpprouting](https://anaconda.org/conda-forge/r-cpprouting) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-cpprouting)](https://anaconda.org/conda-forge/r-cpprouting)
+  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://anaconda.org/bioconda/assemblycomparator2) (archived)
 
