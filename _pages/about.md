@@ -44,7 +44,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 #### Open source wizardry
 
-Contributing to the upstream code base of these projects:
+Contributing to the upstream code base of these open source projects:
 
   - [CompareM2 ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
   - [Snakemake ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
