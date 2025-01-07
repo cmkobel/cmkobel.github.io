@@ -30,9 +30,9 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
       - Development of exercises for metagenomics.
   - Independent and original conceptualization and completion of scientific projects.
   - Software engineering, containerization and distribution.
+  - Courses in genome scale metabolic modeling, microbial metabolism and physiology, multi- and holo-omic integration, and functional meta-omics.
   - Academic writing.
   - Interpersonal skills and collaboration.
-  - Courses in genome scale metabolic modeling, microbial metabolism and physiology, multi- and holo-omic integration, and functional meta-omics.
 
 
 ### July 2020 - July 2021: Lead Bioinformatician
