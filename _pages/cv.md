@@ -61,7 +61,7 @@ Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus Unive
   - Implementation of string algorithms for phylogenetic analysis, GWAS, genomics, molecular evolution.
   - Application of statistical methods and clustering techniques on DNA and expression-data.
   - Completion of various scientific projects, including sex-chromosome evolution and parallel optimization of linear time algorithms.
-  - Master's thesis about GC-bias in gene conversion. "GC-biased Gene Conversion (gBGC) in *Rhizobium leguminosarum*".
+  - Master's thesis on GC-bias in gene conversion. "GC-biased Gene Conversion (gBGC) in *Rhizobium leguminosarum*".
 
   
 
