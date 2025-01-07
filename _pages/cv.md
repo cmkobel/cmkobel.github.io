@@ -22,8 +22,11 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Design and configuration of a high performance multi-user computational platform for our entire research group.
   - Conference talks and outreach.
     - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
-  - International collaborations.
-    - Visiting researcher at Australian Centre for Ecogenomics (University of Queensland), Centre for Microbial Research (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), Center for Evolutionary Hologenomics (University of Copenhagen). 
+  - International collaborations. Visiting researcher at.
+    - Australian Centre for Ecogenomics (University of Queensland), Australia.
+    - Centre for Microbial Research (Queensland University of Technology), Australia.
+    - Livestock (Commonwealth Scientific and Industrial Research Organisation), Australia.
+    - Center for Evolutionary Hologenomics (University of Copenhagen), Denmark. 
   - Teaching Master's students in environmental bioinformatics by developing and instructing exercises in metagenomics.
     - BIN420 Bioinformatics for Functional Meta-Omics 2024.
     - BIO326 Genome sequencing; tools and analysis 2023-2024.
