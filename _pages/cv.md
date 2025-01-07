@@ -12,7 +12,7 @@ redirect_from:
 
 ## Employments
 
-**August 2021 - January 2025: PhD fellow**
+### August 2021 - January 2025: PhD fellow
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
 
@@ -32,9 +32,10 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Software engineering, containerization and distribution.
   - Academic writing.
   - Interpersonal skills and collaboration.
+  - Courses in genome scale metabolic modeling, microbial metabolism and physiology, multi- and holo-omic integration, and functional meta-omics.
 
 
-**July 2020 - July 2021: Lead Bioinformatician**
+### July 2020 - July 2021: Lead Bioinformatician
 
 Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark.
 
@@ -45,7 +46,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
   - Management of student employees.
   - Co-authorship of several research papers.
 
-**2019 - 2020: Student bioinformatician**
+### 2019 - 2020: Student bioinformatician
 
 Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark.
 
@@ -54,7 +55,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
 
 ## Studies
 
-**2018 - 2020: Master's degree (MSc) in Bioinformatics**
+### 2018 - 2020: Master's degree (MSc) in Bioinformatics
 
 Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
@@ -65,7 +66,7 @@ Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus Unive
 
   
 
-**2015 - 2018: Bachelor's degree (BSc) in Biology**
+### 2015 - 2018: Bachelor's degree (BSc) in Biology
 
 Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
