@@ -12,6 +12,13 @@ redirect_from:
 
 ## Employments
 
+### June 2023 - October 2024: Bioinformatics Consultant
+
+Kobelomics Enk., Ås, Norway
+
+  - Consultation on bioinformatic genomic analysis for clinical analysis of multi-resistant microbial pathogens.
+  - Development of bespoke bioinformatic pipelines.
+
 ### August 2021 - January 2025: PhD fellow
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
@@ -37,6 +44,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Course participitant in topics: Genome scale metabolic modeling, microbial metabolism and physiology, multi- and holo-omic integration, and functional meta-omics.
   - Academic writing.
   - Interpersonal skills and collaboration.
+
 
 
 ### July 2020 - July 2021: Lead Bioinformatician
