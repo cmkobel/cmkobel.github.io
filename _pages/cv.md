@@ -24,8 +24,10 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
     - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
   - International collaborations.
     - Visiting researcher at Australian Centre for Ecogenomics (University of Queensland), Centre for Microbial Research (Queensland University of Technology), Livestock (Commonwealth Scientific and Industrial Research Organisation), Center for Evolutionary Hologenomics (University of Copenhagen). 
-  - Training Master's students in metagenomic informatics.
-    - BIN420: Bioinformatics for Functional Meta-Omics. BIO326 “Genomsekvensering; verktøy og analyser” 2023-2024, Development of dry-lab course material and exercises.
+  - Training Master's students in environmental bioinformatics.
+    - BIN420 Bioinformatics for Functional Meta-Omics 2024.
+    - BIO326 Genome sequencing; tools and analysis 2023-2024.
+      - Development of exercises for metagenomics.
   - Independent and original conceptualization and completion of scientific projects.
   - Software engineering, containerization and distribution.
   - Academic writing.
