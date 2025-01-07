@@ -33,7 +33,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
     - BIN420 Bioinformatics for Functional Meta-Omics 2024.
     - BIO326 Genome sequencing; tools and analysis 2023-2024.
   - Independent and original conceptualization and completion of scientific projects.
-  - Software engineering, containerization and distribution.
+  - Software engineering, documentation, containerization and distribution.
   - Course participitant in topics: Genome scale metabolic modeling, microbial metabolism and physiology, multi- and holo-omic integration, and functional meta-omics.
   - Academic writing.
   - Interpersonal skills and collaboration.
