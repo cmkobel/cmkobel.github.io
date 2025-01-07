@@ -63,21 +63,21 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
 
 Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
+  - Master's thesis on GC-bias in gene conversion. "GC-biased Gene Conversion (gBGC) in *Rhizobium leguminosarum*".
   - Implementation of string algorithms for phylogenetic analysis, GWAS, genomics, molecular evolution.
   - Application of statistical methods and clustering techniques on DNA and expression-data.
   - Completion of various scientific projects, including sex-chromosome evolution and parallel optimization of linear time algorithms.
-  - Master's thesis on GC-bias in gene conversion. "GC-biased Gene Conversion (gBGC) in *Rhizobium leguminosarum*".
-
   
 
+  
 ### 2015 - 2018: Bachelor's degree (BSc) in Biology
 
 Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
-  - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
-    - Fluent english and intercultural relations.
   - Bachelor's project in bioinformatics on sex-chromosome evolution in higher apes.
   - More than one year full time equivalents in bioinformatics courses (BiRC). 
+  - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
+    - Fluent english and intercultural relations.
   - Tutor for new students for two freshmen batches (years 2016 and 2018).
 
 
