@@ -21,8 +21,10 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Researching fundamental questions in host-microbe interactions.
   - Design and configuration of a high performance multi-user computational platform for our entire research group.
   - Conference talks and outreach.
-    - Oral presentations at AusME 2022, CGIF 2024, AHC 2024.
-  - International collaborations. Visiting researcher at.
+    - Pitched poster: Australian Microbial Ecology Conference (AusME), Melbourne, Australia, 2022.
+    - Presentation: Congress on Gastrointestinal Function (CGIF), Urbana-Champaign, USA, 2024.
+    - Presentation: Applied Hologenomics Conference (AHC), Copenhagen, Denmark 2024.
+  - International collaborations. Visiting researcher at:
     - Australian Centre for Ecogenomics, University of Queensland, Australia.
     - Centre for Microbial Research, Queensland University of Technology, Australia.
     - Livestock, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia.
