@@ -12,7 +12,7 @@ redirect_from:
 
 ## Employments
 
-**2021 - now: PhD fellow**
+**August 2021 - January 2025: PhD fellow**
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
 
@@ -45,7 +45,7 @@ Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark
 
 **2019 - 2020: Student bioinformatician**
 
-Department of Clinical Microbiology, Aarhus University Hospital.
+Department of Clinical Microbiology, Aarhus University Hospital, Skejby, Denmark.
 
   - Development of bioinformatics pipelines for assembly and comparison of genomes from microbial isolates.
   - Co-authorship of several research papers.
@@ -54,7 +54,7 @@ Department of Clinical Microbiology, Aarhus University Hospital.
 
 **2018 - 2020: Master's degree (MSc) in Bioinformatics**
 
-Bioinformatics Research Centre (BiRC), Aarhus University (AU).
+Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
   - Implementation of string algorithms for phylogenetic analysis, GWAS, genomics, molecular evolution.
   - Application of statistical methods and clustering techniques on DNA and expression-data.
@@ -65,7 +65,7 @@ Bioinformatics Research Centre (BiRC), Aarhus University (AU).
 
 **2015 - 2018: Bachelor's degree (BSc) in Biology**
 
-Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU)
+Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), Denmark.
 
   - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
     - Fluent english and intercultural relations.
