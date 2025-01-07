@@ -86,17 +86,3 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), D
   - Packaging and containerization using Conda, Docker, Apptainer.
   - Cryptographic handling of sensitive data.
 
-
-## Languages
-
-  - Native Danish.
-  - Fluent English.
-
-  
-## Portfolio
-
-  - [https://github.com/cmkobel](https://github.com/cmkobel)
-
-
-
-
