@@ -16,7 +16,7 @@ redirect_from:
 
 Kobelomics Enk., Ås, Norway
 
-  - Consultation on bioinformatic genomic analysis for clinical analysis of multi-resistant microbial pathogens.
+  - Consultation on bioinformatic genomic clinical analysis of multi-resistant microbial pathogens.
   - Development of bespoke bioinformatic pipelines.
 
 ### August 2021 - January 2025: PhD fellow
