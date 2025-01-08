@@ -36,7 +36,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 ### Teaching
   - Norwegian University of Life Sciences Bin420 "Bioinformatics for Functional Meta-Omics" 2024 \| Development of dry-lab course material and exercises [[link](https://web.archive.org/web/20240719202437/https://www.nmbu.no/en/course/BIN420)]
   - Norwegian University of Life Sciences Bio326 "Genome sequencing; tools and analyses" 2023-2024 \| Development of dry-lab course material and exercises [[link](https://web.archive.org/web/20240422124112/https://www.nmbu.no/en/course/BIO326)]
-  - Aarhus University Hospital course in microbiology for MDs specializing in Microbiology 2021 \| Rapid long-read sequencing of clinical isolates.
+  - Aarhus University Hospital course in microbiology for MDs specializing in Microbiology 2021 \| Rapid long-read sequencing and characterization of clinical isolates
 
 
 ### Miscellaneous
