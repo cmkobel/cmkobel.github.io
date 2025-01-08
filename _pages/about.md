@@ -26,7 +26,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
   - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 [[announcement](https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit) \| [zoom](https://nmbu.zoom.us/j/61503434236) \| [location](https://www.openstreetmap.org/node/2836636279)]
 
 ### Previous presentations
-  - [CEH](https://ceh.ku.dk/) (Center for Evolutionary Hologenomics) Center guest presentation 2024, University of Copenhagen, "CompareM2 is a genomes-to-report pipeline" [[linkedin](https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]
+  - [CEH](https://ceh.ku.dk/) (Center for Evolutionary Hologenomics) Center guest presentation 2024, University of Copenhagen, "CompareM2 is a genomes-to-report pipeline" [[linkedin](https://web.archive.org/web/20250108150357/https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]
   - [AHC](https://www.appliedhologenomicsconference.eu/) (Applied Hologenomics Conference) 2024, Copenhagen, DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes" [[youtube](https://www.youtube.com/watch?v=gucJB-GG0WQ)]
   - [CGIF](https://www.congressgastrofunction.org/) (Congress on Gastrointestinal Function) 2024, Urbana-Champaign, USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome"
   - [AusME](https://www.ausme-microbes.org.au/) (Australian Microbial Ecology Conference) 2022, Melbourne Australia, poster and pitch "Holo-omics and host-microbiome interactions in the herbivore rumen ([#18](https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540))"
@@ -34,8 +34,8 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
   
 
 ### Teaching
-  - NMBU Bin420 "Bioinformatics for Functional Meta-Omics" 2024 \| Development of dry-lab course material and exercises [[link](https://www.nmbu.no/en/course/BIN420)]
-  - NMBU Bio326 "Genome sequencing; tools and analyses" 2023-2024 \| Development of dry-lab course material and exercises [[link](https://www.nmbu.no/en/course/bio326)]
+  - NMBU Bin420 "Bioinformatics for Functional Meta-Omics" 2024 \| Development of dry-lab course material and exercises [[link](https://web.archive.org/web/20240719202437/https://www.nmbu.no/en/course/BIN420)]
+  - NMBU Bio326 "Genome sequencing; tools and analyses" 2023-2024 \| Development of dry-lab course material and exercises [[link](https://web.archive.org/web/20240422124112/https://www.nmbu.no/en/course/BIO326)]
   - Course in Microbiology at Aarhus University Hospital 2021 for MDs specializing in Microbiology \| Rapid long-read sequencing of clinical isolates.
 
 
