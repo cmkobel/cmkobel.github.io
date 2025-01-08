@@ -23,7 +23,7 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 ### Upcoming
   
-  - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 [[announcement](https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit) \| [zoom](https://nmbu.zoom.us/j/61503434236) \| [location](https://www.openstreetmap.org/node/2836636279)]
+  - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 <span class="shaded">[[announcement](https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit) \| [zoom](https://nmbu.zoom.us/j/61503434236) \| [location](https://www.openstreetmap.org/node/2836636279)]</span>
 
 ### Previous presentations
   - Center for Evolutionary Hologenomics (CEH) 2024, University of Copenhagen, Center guest presentation "CompareM2 is a genomes-to-report pipeline" <span class="shaded">[[linkedin](https://web.archive.org/web/20250108150357/https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]</span>
