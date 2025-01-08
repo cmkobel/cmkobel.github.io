@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carl Mathias Kobel, MSc"
+title: "Carl Mathias Kobel"
 author_profile: true
 redirect_from: 
   - /about/
