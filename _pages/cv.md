@@ -84,9 +84,9 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), D
 
   - Bachelor's thesis in bioinformatics on sex-chromosome evolution in higher apes.
   - More than one year full time equivalents in bioinformatics courses (BiRC). 
+  - Tutor for new students for two freshmen batches (years 2016 and 2018).
   - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
     - Fluent english and intercultural relations.
-  - Tutor for new students for two freshmen batches (years 2016 and 2018).
 
 
 ## Summary of skills
