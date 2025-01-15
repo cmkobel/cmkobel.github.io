@@ -23,7 +23,7 @@ Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
   - Conference talks and outreach.
     - Pitched poster: Australian Microbial Ecology Conference (AusME), Melbourne, Australia, 2022.
     - Presentation: Congress on Gastrointestinal Function (CGIF), Urbana-Champaign, USA, 2024.
-    - Presentation: Applied Hologenomics Conference (AHC), Copenhagen, Denmark 2024.
+    - Presentation: Applied Hologenomics Conference (AHC), Copenhagen, Denmark, 2024.
   - International collaborations. Visiting researcher at:
     - Australian Centre for Ecogenomics, University of Queensland, Australia.
     - Centre for Microbial Research, Queensland University of Technology, Australia.
@@ -84,7 +84,7 @@ Department of Bioscience, Faculty of Natural Sciences, Aarhus University (AU), D
 
   - Bachelor's thesis in bioinformatics on sex-chromosome evolution in higher apes.
   - More than one year full time equivalents in bioinformatics courses (BiRC). 
-  - Tutor for new students for two freshmen batches (years 2016 and 2018).
+  - Tutor for new students, years 2016 and 2018.
   - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
     - Fluent english and intercultural relations.
 
