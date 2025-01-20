@@ -16,6 +16,8 @@ redirect_from:
 
 Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
 
+The Microbial Ecology and Meta-Omics Group, led by Prof. Phil Pope.
+
   - Development of large scale bioinformatic pipelines for genomics and proteomics.
   - Network analysis and integration of multi-omic data.
   - Researching fundamental questions in host-microbe interactions.
