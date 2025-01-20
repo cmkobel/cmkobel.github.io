@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a bioinformatician and a PhD candidate in the MEMO group at NMBU, Norway. My perspective is that microbiomes are largely undervalued and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets.
+I'm a bioinformatician with the perspective that microbiomes are largely undervalued, and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets.
 
 Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
@@ -21,11 +21,9 @@ Looking for a postdoc position in the Copenhagen area from ~april 2025.
 
 ## Activities
 
-### Upcoming
+### Presentations
   
-  - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 <span class="shaded">[[announcement](https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit) \| [zoom](https://nmbu.zoom.us/j/61503434236) \| [location](https://www.openstreetmap.org/node/2836636279)]</span>
-
-### Previous presentations
+  - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 <span class="shaded">[[announcement](https://web.archive.org/web/20250108150229/https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit)]</span>
   - Center for Evolutionary Hologenomics (CEH) 2024, University of Copenhagen, Center guest presentation "CompareM2 is a genomes-to-report pipeline" <span class="shaded">[[linkedin](https://web.archive.org/web/20250108150357/https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]</span>
   - Applied Hologenomics Conference (AHC) 2024, Copenhagen DK, Presentation "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes" <span class="shaded">[[youtube](https://www.youtube.com/watch?v=gucJB-GG0WQ) \| [abstract](https://web.archive.org/web/20250108152557/https://www.appliedhologenomicsconference.eu/abstracts.html)]</span>
   - Congress on Gastrointestinal Function (CGIF) 2024, Urbana-Champaign USA, Presentation "Holo-omic network analysis reveals bistability in the rumen microbiome" <span class="shaded">[[abstract](https://www.congressgastrofunction.org/proceedings/2024_Congress_on_GI_Function.pdf)]</span>
