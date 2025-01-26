@@ -56,5 +56,5 @@ Maintaining Conda recipes for the following packages:
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
   - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)](https://anaconda.org/conda-forge/r-chnosz)
   - [conda-forge::r-cpprouting](https://anaconda.org/conda-forge/r-cpprouting) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-cpprouting)](https://anaconda.org/conda-forge/r-cpprouting)
-  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://anaconda.org/bioconda/assemblycomparator2) (archived)
+  - bioconda::assemblycomparator2 [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://anaconda.org/bioconda/assemblycomparator2) (archived)
 
