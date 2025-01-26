@@ -10,8 +10,6 @@ redirect_from:
 
 I'm a bioinformatician with the perspective that microbiomes are largely undervalued, and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets.
 
-Looking for a postdoc position in the Copenhagen area from ~april 2025.
-
 ## First-author publications/preprints
 
   - *PhD thesis*: Kobel 2025, Rumen-Centric Assembly of the Cattle Holobiont, NMBU Library <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/thesis_merge__170x240_-28.pdf)]</span>
