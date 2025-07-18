@@ -20,7 +20,7 @@ I'm a bioinformatician with the perspective that microbiomes are largely underva
 ## Activities
 
 ### Upcoming
-- Aarhus University Hospital course in microbial bioinformatics for MDs specializing in Microbiology 2025 \| Identification of species on genomic data
+- Aarhus University Hospital course in microbial bioinformatics for MDs specializing in Microbiology 2025 \| Genomic characterization and species identification of clinical microbes
 
 ### Presentations
   
