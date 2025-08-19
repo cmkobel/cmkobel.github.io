@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a bioinformatician with the perspective that microbiomes are largely undervalued, and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets.
 
+Currently open to work.
+
 ## Selected works
 
   - *Research paper*: Kobel et al. 2025, Protozoal populations drive system-wide variation in the rumen microbiome, Nature Communications <span class="shaded">[[pdf](https://www.nature.com/articles/s41467-025-61302-2.pdf) \| [doi](https://doi.org/10.1038/s41467-025-61302-2)]</span>
