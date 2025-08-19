@@ -45,8 +45,8 @@ I'm a bioinformatician with the perspective that microbiomes are largely underva
 
 Contributing to the upstream code base of these open source projects:
 
-  - [CompareM2 ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
-  - [Snakemake ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
+  - [CompareM2 - Genomes-to-report pipeline ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
+  - [Snakemake - Workflow management system ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
 
 
 #### Conda recipe maintainer
