@@ -74,7 +74,7 @@ The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phil Pope.**
 
 ### Summary of skills
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
-  - Applied statistics, dimensionality reduction, network analysis, modeling, visualization of large datasets.
+  - Applied statistics, dimensionality reduction, network analysis, modeling, visualization of large datasets: To obtain true multi-omic integration.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
   - Hardware/software/network/user integration and design of workstations for bioinformatic needs running GNU/Linux.
