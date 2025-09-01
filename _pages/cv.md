@@ -34,7 +34,7 @@ redirect_from:
 
 ### June 2023 - July 2025: Bioinformatics Consultant (part time)
 
-**Kobelomics Enk., Ås, Norway & Kobelomics PMV, Copenhagen, Denmark**
+**Kobelomics Enk., Ås, Norway & Kobelomics PMV, Odder, Denmark**
   - Consultation on bioinformatic genomic clinical analysis of multi-resistant microbial pathogens.
   - Understanding client needs and translating intuitive ideas into concrete tasks.
   - Development of bespoke bioinformatic pipelines.
