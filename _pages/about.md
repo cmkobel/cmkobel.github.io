@@ -38,6 +38,7 @@ Currently open to work.
   - Norwegian University of Life Sciences Bin420 "Bioinformatics for Functional Meta-Omics" 2024 \| Development of dry-lab course material and exercises <span class="shaded">[[link](https://web.archive.org/web/20240719202437/https://www.nmbu.no/en/course/BIN420)]</span>
   - Norwegian University of Life Sciences Bio326 "Genome sequencing; tools and analyses" 2023-2024 \| Development of dry-lab course material and exercises <span class="shaded">[[link](https://web.archive.org/web/20240422124112/https://www.nmbu.no/en/course/BIO326)]</span>
   - Aarhus University Hospital course in microbiology for MDs specializing in Microbiology 2021 \| Rapid long-read sequencing and characterization of clinical isolates
+  - Aarhus University Hospital course in bioinformatics for MDs specializing in Microbiology 2025 \| Microbial Genomes: Functional characterization and species identification
 
 
 ### Miscellaneous
@@ -45,7 +46,7 @@ Currently open to work.
 
 #### Open source wizardry
 
-Contributing to the upstream code base of these open source projects:
+Contributor to the upstream code base of the following open source projects.
 
   - [CompareM2 - Genomes-to-report pipeline ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
   - [Snakemake - Workflow management system ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
@@ -53,7 +54,7 @@ Contributing to the upstream code base of these open source projects:
 
 #### Conda recipe maintainer
 
-Maintaining Conda recipes for the following packages:
+Conda recipes maintainer for the following packages.
 
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
