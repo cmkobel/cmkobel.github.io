@@ -16,7 +16,7 @@ Currently open to work.
 
   - *Research paper*: Kobel et al. 2025, Protozoal populations drive system-wide variation in the rumen microbiome, Nature Communications <span class="shaded">[[pdf](https://www.nature.com/articles/s41467-025-61302-2.pdf) \| [doi](https://doi.org/10.1038/s41467-025-61302-2)]</span>
   - *Software paper*: Kobel et al. 2025, CompareM2 is a genomes-to-report pipeline for comparing microbial genomes, OUP Bioinformatics <span class="shaded">[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf517/64273366/btaf517.pdf) \| [doi](https://doi.org/10.1093/bioinformatics/btaf517) \| [docs](https://comparem2.readthedocs.io/) \| [repo](https://github.com/cmkobel/CompareM2) \| [bioconda](https://anaconda.org/bioconda/comparem2)]</span>
-  - *Review paper*: Kobel et al. 2024, Integrating host and microbiome biology using holo-omics, RSC Molecular Omics <span class="shaded">[[pdf](https://github.com/cmkobel/cmkobel.github.io/raw/master/files/Kobel%20et%20al.%202024%20-%20Integrating%20host%20and%20microbiome%20biology%20using%20holo-omics.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>
+  - *Review paper*: Kobel et al. 2024, Integrating host and microbiome biology using holo-omics, RSC Molecular Omics <span class="shaded">[[pdf](https://pubs.rsc.org/en/content/articlepdf/2024/mo/d4mo00017j) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>
   - *PhD thesis*: Kobel 2025, Rumen-Centric Assembly of the Cattle Holobiont, NMBU Library <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/thesis_merge__170x240_-28.pdf)]</span>
 
 ## Activities
