@@ -12,6 +12,13 @@ redirect_from:
 
 ## Studies
 
+### 2021 - 2025: PhD degree in holo-omics
+
+**Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway. The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope.**
+  - Showcased multi-omic integration in defense: "Rumen-Centric Assembly of the Cattle Holobiont".
+  - Demonstrated teaching skills in trial lecture: "The origin, evolution and physiological role of hydrogenosomes in their protist hosts".
+  - Received the degree: philosophiae doctor (ph.d.).
+
 ### 2018 - 2020: Master’s degree in Bioinformatics
 
 **Bioinformatics Research Centre (BiRC), Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
@@ -44,7 +51,7 @@ redirect_from:
 ### August 2021 - January 2025: PhD fellow
 
 **Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.
-The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phil Pope.**
+The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope.**
   - Researching fundamental questions in host-microbe interactions.
   - Integration of multi-omic data using dimensionality reduction and correlation network analysis.
   - Conference talks and outreach:
