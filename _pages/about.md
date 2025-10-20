@@ -21,9 +21,6 @@ Currently open to work.
 
 ## Activities
 
-### Upcoming
-- Aarhus University Hospital course in microbial bioinformatics for MDs specializing in Microbiology October 2025 \| Species identification and genomic characterization of clinical microbes
-
 ### Presentations
   
   - PhD defense. "Rumen-Centric Assembly of the Cattle Holobiont". Venue: Husdyrfagbygget, Norwegian University of Life Sciences, Ås, Norway. Date: 12:00, Friday, 17th of January 2025 <span class="shaded">[[ad](https://www.nmbu.no/forskning/samspillet-mellom-en-vertsorganisme-og-mikrobene) \| [announcement](https://web.archive.org/web/20250108150229/https://www.nmbu.no/en/research/public-defences/17-jan-carl-mathias-kobel-biovit) \| [so-me](https://web.archive.org/web/20250126150519/https://www.linkedin.com/posts/phil-pope-30b171280_congratulations-dr-carl-mathias-kobel-on-activity-7287071663735590912-xkfC)]</span>
