@@ -84,6 +84,6 @@ The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope.
   - Applied statistics, dimensionality reduction, network analysis, modeling, visualization of large datasets: To obtain true multi-omic integration.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
+  - Cryptographic handling of sensitive data.
   - Hardware/software/network/user integration and design of workstations for bioinformatic needs running GNU/Linux.
   - Packaging and containerization using Conda, Docker, Apptainer.
-  - Cryptographic handling of sensitive data.
