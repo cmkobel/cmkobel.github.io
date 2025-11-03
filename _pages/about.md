@@ -13,8 +13,6 @@ redirect_from:
 
 I'm a multi-omics integration specialist seeking to distill biological interpretations of multi-modal large-scale experimental data acquisitions. I use dimensionality reduction and network analysis to identify concrete biological compounds from noisy datasets. Meta-omics (microbes) often play a large role in my work.
 
-Currently open to work.
-
 ## Selected works
 
   - *Research paper*: Kobel et al. 2025, Protozoal populations drive system-wide variation in the rumen microbiome, Nature Communications <span class="shaded">[[pdf](https://www.nature.com/articles/s41467-025-61302-2.pdf) \| [doi](https://doi.org/10.1038/s41467-025-61302-2)]</span>
