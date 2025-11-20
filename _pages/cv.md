@@ -39,6 +39,11 @@ redirect_from:
 
 ## Employments
 
+### December 2025 - Present: Postdoctoral Researcher
+
+**Plant Molecular Biology, Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
+  - Multi-Omics Integration.
+
 ### June 2023 - July 2025: Bioinformatics Consultant (part time)
 
 **Kobelomics Enk., Ås, Norway & Kobelomics PMV, Odder, Denmark**
