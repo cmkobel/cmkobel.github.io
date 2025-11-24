@@ -10,8 +10,7 @@ redirect_from:
 
 <!-- I'm a bioinformatician with the perspective that microbiomes are largely undervalued, and that we should better understand the minute interactions within them. I have a big data inspired approach, enjoy tinkering with hardware, and like to build parallelizable bioinformatics pipelines to gain insights into large multi-omic microbiome datasets. -->
 
-
-I'm a multi-omics integration bioinformatician seeking to distill biological interpretations of multi-modal large-scale experimental data. I use dimensionality reduction and network analysis to identify concrete biological compounds from noisy datasets. Meta-omics (microbes) often play a large role in my work.
+I'm a bioinformatician in multi-omics integration seeking to distill biological interpretations of multi-modal large-scale experimental data. I use dimensionality reduction and network analysis to identify concrete biological compounds from noisy datasets. Meta-omics (microbes) often play a large role in my work.
 
 ## Selected works
 
