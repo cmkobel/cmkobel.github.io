@@ -42,7 +42,7 @@ redirect_from:
 ### December 2025 - Present: Postdoctoral Researcher
 
 **Plant Molecular Biology, Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
-  - Multi-Omics Integration.
+  - Multi-omics integration.
 
 ### June 2023 - July 2025: Bioinformatics Consultant (part time)
 
