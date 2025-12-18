@@ -11,8 +11,7 @@ redirect_from:
 
 
 
-
-## Published in peer-reviewed journals:
+## Published in peer-reviewed journals
 
 Sorted by newest first. My name or the unit representing my name is <ins>underlined</ins>. 
 
