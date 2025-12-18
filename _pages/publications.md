@@ -19,10 +19,6 @@ My publications are up to date and available on Scholar: [https://scholar.google
 
 My name or the unit representing my name is marked bold.
 
-<span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/btaf517.pdf) \| [doi](https://doi.org/10.1093/bioinformatics/btaf517)]</span>
-
-<span class="shaded">[[doi](URL)]</span>
-
   - **CM Kobel**, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope, CompareM2 is a genomes-to-report pipeline for comparing microbial genomes, OUP Bioinformatics 2025  <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/btaf517.pdf) \| [doi](https://doi.org/10.1093/bioinformatics/btaf517)]</span>
   - W Lai, A Alberdi, AVP de León, **CM Kobel**, VTE Aho, A Leu, R Roehe, PB Pope, T Hvidsten, "Metabolic Capabilities of Key Rumen Microbiota Drive Methane Emissions in Cattle", ASM mSystems 2025 <span class="shaded">[[doi](https://doi.org/10.1128/msystems.00601-25)]</span>
   - **Carl M Kobel**, Andy Leu, Arturo Vera-Ponce de León, Ove Øyås, Wanxin Lai, Ianina Altshuler, Live H Hagen, Rasmus D Wollenberg, Mads T Søndergaard, Cassie R Bakshani, William GT Willats, Laura Nicoll, Simon J McIlroy, Torgeir R Hvidsten, Oliver Schmidt, Chris Greening, Gene W Tyson, Rainer Roehe, Velma TE Aho, Phillip B Pope, Protozoal populations drive system-wide variation in the rumen microbiome. Nature Communications 2025 <span class="shaded">[[doi](https://doi.org/10.1038/)]</span>s41467-025-61302-2  
