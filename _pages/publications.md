@@ -10,14 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-My publications are up to date and available on Scholar: [https://scholar.google.com/citations?user=J9G72msAAAAJ](https://scholar.google.com/citations?user=J9G72msAAAAJ)
 
-
----
 
 ## Published in peer-reviewed journals:
 
-My name or the unit representing my name is <ins>underlined</ins>.
+Sorted by newest first. My name or the unit representing my name is <ins>underlined</ins>. 
 
   - **CompareM2 is a genomes-to-report pipeline for comparing microbial genomes**  
     _<ins>CM Kobel</ins>, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope_  
@@ -66,6 +63,11 @@ My name or the unit representing my name is <ins>underlined</ins>.
   - **Whole Genome Sequencing of Aggregatibacter actinomycetemcomitans Cultured from Blood Stream Infections Reveals Three Major Phylogenetic Groups Including a Novel Lineage Expressing Serotype a Membrane O Polysaccharide**  
     _S Nedergaard, <ins>CM Kobel</ins>, MB Nielsen, RT Møller, AB Jensen, N Nørskov-Lauritsen_  
     Pathogens 2019 <span class="shaded">[[doi](https://doi.org/10.3390/pathogens8040256)]</span>  
+
+
+---
+
+Scholar also has an up-to-date list of my publications with more stats: [https://scholar.google.com/citations?user=J9G72msAAAAJ](https://scholar.google.com/citations?user=J9G72msAAAAJ)
 
   
     
