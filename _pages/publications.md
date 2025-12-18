@@ -15,14 +15,14 @@ redirect_from:
 
 Sorted by newest first. My name or the unit representing my name is <ins>underlined</ins>. 
 
-  - **CompareM2 is a genomes-to-report pipeline for comparing microbial genomes**  
-    _<ins>CM Kobel</ins>, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope_  
-    OUP Bioinformatics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/btaf517.pdf) \| [doi](https://doi.org/10.1093/bioinformatics/btaf517)]</span>
-    
   - **Metabolic Capabilities of Key Rumen Microbiota Drive Methane Emissions in Cattle**  
     _W Lai, A Alberdi, AVP de León, <ins>CM Kobel</ins>, VTE Aho, A Leu, R Roehe, PB Pope, T Hvidsten_  
     ASM mSystems 2025 <span class="shaded">[[doi](https://doi.org/10.1128/msystems.00601-25)]</span>  
   
+  - **CompareM2 is a genomes-to-report pipeline for comparing microbial genomes**  
+    _<ins>CM Kobel</ins>, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope_  
+    OUP Bioinformatics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/btaf517.pdf) \| [doi](https://doi.org/10.1093/bioinformatics/btaf517)]</span>
+    
   - **Protozoal populations drive system-wide variation in the rumen microbiome**  
     _<ins>Carl M Kobel</ins>, Andy Leu, Arturo Vera-Ponce de León, Ove Øyås, Wanxin Lai, Ianina Altshuler, Live H Hagen, Rasmus D Wollenberg, Mads T Søndergaard, Cassie R Bakshani, William GT Willats, Laura Nicoll, Simon J McIlroy, Torgeir R Hvidsten, Oliver Schmidt, Chris Greening, Gene W Tyson, Rainer Roehe, Velma TE Aho, Phillip B Pope_  
     Nature Communications 2025 <span class="shaded">[[doi](https://doi.org/10.1038/s41467-025-61302-2  )]</span>  
