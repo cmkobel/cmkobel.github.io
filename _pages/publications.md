@@ -64,7 +64,7 @@ My name or the unit representing my name is <ins>underlined</ins>.
     Open forum infectious diseases  2021 <span class="shaded">[[doi](https://doi.org/10.1093/ofid/ofab295)]</span>  
   
   - **Whole Genome Sequencing of Aggregatibacter actinomycetemcomitans Cultured from Blood Stream Infections Reveals Three Major Phylogenetic Groups Including a Novel Lineage Expressing Serotype a Membrane O Polysaccharide**  
-    S Nedergaard, CM <ins>Kobel</ins>, MB Nielsen, RT Møller, AB Jensen, N Nørskov-Lauritsen  
+    S Nedergaard, <ins>CM Kobel</ins>, MB Nielsen, RT Møller, AB Jensen, N Nørskov-Lauritsen  
     Pathogens 2019 <span class="shaded">[[doi](https://doi.org/10.3390/pathogens8040256)]</span>  
   
   
