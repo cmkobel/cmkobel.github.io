@@ -53,7 +53,7 @@ My name or the unit representing my name is <ins>underlined</ins>.
   
   - **Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B. 1.1.7 in Denmark: an observational cohort study**  
     _P Bager, J Wohlfahrt, J Fonager, M Rasmussen, M Albertsen, TY Michaelsen, CH Møller, S Ethelberg, R Legarth, MSF Button, S Gubbels, M Voldstedlund, K Mølbak, R Leo Skov, A Fomsgaard, TG Krause, <ins>DCGC</ins> (The Danish Covid-19 Genome Consortium)_  
-    The Lancet Infectious Diseases 2021 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
+    The Lancet Infectious Diseases 2021 <span class="shaded">[[doi](https://doi.org/10.1016/S1473-3099(21)00290-5)]</span>  
   
   - **Haemophilus influenzae one day in Denmark: prevalence, circulating clones, and dismal resistance to aminopenicillins**  
     _N Nørskov-Lauritsen, N Pedersen, JUH Lam, HL Nielsen, <ins>CM Kobel</ins>, DS Hansen, ODiD Consortium_  
