@@ -17,7 +17,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 
   - **Metabolic Capabilities of Key Rumen Microbiota Drive Methane Emissions in Cattle**  
     _W Lai, A Alberdi, AVP de León, <ins>CM Kobel</ins>, VTE Aho, A Leu, R Roehe, PB Pope, T Hvidsten_  
-    ASM mSystems 2025 <span class="shaded">[[doi](https://doi.org/10.1128/msystems.00601-25)]</span>  
+    ASM mSystems 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/lai-et-al-2025.pdf) \| [doi](https://doi.org/10.1128/msystems.00601-25)]</span>  
   
   - **CompareM2 is a genomes-to-report pipeline for comparing microbial genomes**  
     _<ins>CM Kobel</ins>, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope_  
