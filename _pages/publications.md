@@ -17,7 +17,7 @@ My publications are up to date and available on Scholar: [https://scholar.google
 
 ## Published in peer-reviewed journals:
 
-My name or the unit representing my name is marked bold.
+My name or the unit representing my name is <ins>underlined</ins>.
 
   - **CompareM2 is a genomes-to-report pipeline for comparing microbial genomes**  
     <ins>CM Kobel</ins>, VTE Aho, O Øyås, N Nørskov-Lauritsen, BJ Woodcroft, PB Pope  
@@ -48,11 +48,11 @@ My name or the unit representing my name is marked bold.
     Carbohydrate-protein interactions: Methods and protocols 2023 <span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>  
   
   - **Introduction and transmission of SARS-CoV-2 lineage B. 1.1. 7, Alpha variant, in Denmark**  
-    TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins>(The Danish COVID-19 Genome Consortium), Mads Albertsen  
+    TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins> (The Danish COVID-19 Genome Consortium), Mads Albertsen  
     Genome medicine 2022 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
   
   - **Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B. 1.1.7 in Denmark: an observational cohort study**  
-    P Bager, J Wohlfahrt, J Fonager, M Rasmussen, M Albertsen, TY Michaelsen, CH Møller, S Ethelberg, R Legarth, MSF Button, S Gubbels, M Voldstedlund, K Mølbak, R Leo Skov, A Fomsgaard, TG Krause, <ins>DCGC</ins>(The Danish Covid-19 Genome Consortium)  
+    P Bager, J Wohlfahrt, J Fonager, M Rasmussen, M Albertsen, TY Michaelsen, CH Møller, S Ethelberg, R Legarth, MSF Button, S Gubbels, M Voldstedlund, K Mølbak, R Leo Skov, A Fomsgaard, TG Krause, <ins>DCGC</ins> (The Danish Covid-19 Genome Consortium)  
     The Lancet Infectious Diseases 2021 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
   
   - **Haemophilus influenzae one day in Denmark: prevalence, circulating clones, and dismal resistance to aminopenicillins**  
