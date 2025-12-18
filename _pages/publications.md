@@ -67,11 +67,11 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 ## Public pre-prints
 
   - **Predicting microbial genome-scale metabolic networks directly from 16S rRNA gene sequences**  
-    _Ove Øyås, Carl M Kobel, Jon Olav Vik, Phillip B Pope_  
+    _Ove Øyås, <ins>Carl M Kobel</ins>, Jon Olav Vik, Phillip B Pope_  
     bioRxiv 2024 <span class="shaded">[[doi](https://doi.org/10.1101/2024.01.26.576649)]</span>  
 
   - **OmniCorr: An R-package for visualizing putative host-microbiota interactions using multi-omics data**  
-    Shashank Gupta, Wanxin Lai, Carl M Kobel, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten  
+    Shashank Gupta, Wanxin Lai, <ins>Carl M Kobel</ins>, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten  
     bioRxiv 2025 <span class="shaded">[[doi](https://doi.org/10.1101/2025.07.01.662509)]</span>  
     
 
