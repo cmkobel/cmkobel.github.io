@@ -27,7 +27,6 @@ My name or the unit representing my name is marked bold.
   - ### Protozoal populations drive system-wide variation in the rumen microbiome 
 
     **Carl M Kobel**, Andy Leu, Arturo Vera-Ponce de León, Ove Øyås, Wanxin Lai, Ianina Altshuler, Live H Hagen, Rasmus D Wollenberg, Mads T Søndergaard, Cassie R Bakshani, William GT Willats, Laura Nicoll, Simon J McIlroy, Torgeir R Hvidsten, Oliver Schmidt, Chris Greening, Gene W Tyson, Rainer Roehe, Velma TE Aho, Phillip B Pope
-
     Nature Communications 2025 <span class="shaded">[[doi](https://doi.org/10.1038/s41467-025-61302-2  )]</span>
   - **CM Kobel**, J Merkesvik, IMT Burgos, W Lai, O Øyås, PB Pope, TR Hvidsten, VTE Aho, Integrating host and microbiome biology using holo-omics, Molecular Omics 2025 <span class="shaded">[[doi](https://doi.org/10.1039/D4MO00017J)]</span>
   - **CM Kobel**, PhD-thesis: Rumen-Centric Assembly of the Cattle Holobiont, Norges Miljø- og Biovitenskapelige Universitet Bibliotek 2025 <span class="shaded">[[uri](https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3173724)]</span>
