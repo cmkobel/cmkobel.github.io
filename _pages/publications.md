@@ -29,7 +29,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
   
   - **Integrating host and microbiome biology using holo-omics**  
     _<ins>CM Kobel</ins>, J Merkesvik, IMT Burgos, W Lai, O Øyås, PB Pope, TR Hvidsten, VTE Aho_  
-    Molecular Omics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobel_Integrating_2024.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>  
+    RSC Molecular Omics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobel_Integrating_2024.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>  
   
   - **PhD-thesis: Rumen-Centric Assembly of the Cattle Holobiont**  
     _<ins>CM Kobel</ins>_  
@@ -41,11 +41,11 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
   
   - **Long-read metagenomics and CAZyme discovery**  
     _A Ferrillo, <ins>CM Kobel</ins>, A Vera-Ponce de León, SL La Rosa, BJ Kunath, PB Pope, LH Hagen_  
-    Carbohydrate-protein interactions: Methods and protocols 2023 <span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>  
+    Humana Press, Carbohydrate-Protein Interactions. Methods in Molecular Biology <span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>
   
   - **Introduction and transmission of SARS-CoV-2 lineage B. 1.1. 7, Alpha variant, in Denmark**  
     _TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins> (The Danish COVID-19 Genome Consortium), Mads Albertsen_  
-    Genome medicine 2022 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
+    BMC Genome Medicine 2022 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
   
   - **Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B. 1.1.7 in Denmark: an observational cohort study**  
     _P Bager, J Wohlfahrt, J Fonager, M Rasmussen, M Albertsen, TY Michaelsen, CH Møller, S Ethelberg, R Legarth, MSF Button, S Gubbels, M Voldstedlund, K Mølbak, R Leo Skov, A Fomsgaard, TG Krause, <ins>DCGC</ins> (The Danish Covid-19 Genome Consortium)_  
@@ -57,11 +57,11 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
   
   - **Persistent severe acute respiratory syndrome coronavirus 2 infection in immunocompromised host displaying treatment induced viral evolution**  
     _I Monrad, SR Sahlertz, SSF Nielsen, LØ Pedersen, MS Petersen, <ins>CM Kobel</ins>, IH Tarpgaard, M Storgaard, KL Mortensen, MH Schleimann, M Tolstrup, LK Vibholm_  
-    Open forum infectious diseases  2021 <span class="shaded">[[doi](https://doi.org/10.1093/ofid/ofab295)]</span>  
+    OUP Open forum infectious diseases  2021 <span class="shaded">[[doi](https://doi.org/10.1093/ofid/ofab295)]</span>  
   
   - **Whole Genome Sequencing of Aggregatibacter actinomycetemcomitans Cultured from Blood Stream Infections Reveals Three Major Phylogenetic Groups Including a Novel Lineage Expressing Serotype a Membrane O Polysaccharide**  
     _S Nedergaard, <ins>CM Kobel</ins>, MB Nielsen, RT Møller, AB Jensen, N Nørskov-Lauritsen_  
-    Pathogens 2019 <span class="shaded">[[doi](https://doi.org/10.3390/pathogens8040256)]</span>  
+    MDPI Pathogens 2019 <span class="shaded">[[doi](https://doi.org/10.3390/pathogens8040256)]</span>  
 
 
 ## Public pre-prints
