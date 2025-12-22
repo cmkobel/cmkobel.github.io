@@ -25,15 +25,15 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
     
   - **Protozoal populations drive system-wide variation in the rumen microbiome**  
     _<ins>Carl M Kobel</ins>, Andy Leu, Arturo Vera-Ponce de León, Ove Øyås, Wanxin Lai, Ianina Altshuler, Live H Hagen, Rasmus D Wollenberg, Mads T Søndergaard, Cassie R Bakshani, William GT Willats, Laura Nicoll, Simon J McIlroy, Torgeir R Hvidsten, Oliver Schmidt, Chris Greening, Gene W Tyson, Rainer Roehe, Velma TE Aho, Phillip B Pope_  
-    Nature Communications 2025 <span class="shaded">[[doi](https://doi.org/10.1038/s41467-025-61302-2  )]</span>  
+    Nature Communications 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobeletal_protozoal_2025.pdf) \| [doi](https://doi.org/10.1038/s41467-025-61302-2  )]</span>  
   
   - **Integrating host and microbiome biology using holo-omics**  
     _<ins>CM Kobel</ins>, J Merkesvik, IMT Burgos, W Lai, O Øyås, PB Pope, TR Hvidsten, VTE Aho_  
-    Molecular Omics 2025 <span class="shaded">[[doi](https://doi.org/10.1039/D4MO00017J)]</span>  
+    Molecular Omics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobel_Integrating_2024.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>  
   
   - **PhD-thesis: Rumen-Centric Assembly of the Cattle Holobiont**  
     _<ins>CM Kobel</ins>_  
-    Norges Miljø- og Biovitenskapelige Universitet Bibliotek 2025 <span class="shaded">[[uri](https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3173724)]</span>  
+    Norges Miljø- og Biovitenskapelige Universitet Bibliotek 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/thesis_merge__170x240_-28.pdf) \| [uri](https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3173724)]</span>  
   
   - **First case of bacteraemia caused by Dielma fastidiosa in a patient hospitalized with diverticulitis**  
     _B Forman-Ankjaer, F Hvid-Jensen, <ins>CM Kobel</ins>, T Greve_  
