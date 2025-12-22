@@ -41,7 +41,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
   
   - **Long-read metagenomics and CAZyme discovery**  
     _A Ferrillo, <ins>CM Kobel</ins>, A Vera-Ponce de León, SL La Rosa, BJ Kunath, PB Pope, LH Hagen_  
-    Humana Press, Carbohydrate-Protein Interactions, Methods in Molecular Biology <span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>
+    Humana Press, Carbohydrate-Protein Interactions, Methods in Molecular Biology 2023<span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>
   
   - **Introduction and transmission of SARS-CoV-2 lineage B.1.1.7, Alpha variant, in Denmark**  
     _TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins> (The Danish COVID-19 Genome Consortium), Mads Albertsen_  
