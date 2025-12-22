@@ -43,7 +43,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
     _A Ferrillo, <ins>CM Kobel</ins>, A Vera-Ponce de León, SL La Rosa, BJ Kunath, PB Pope, LH Hagen_  
     Humana Press, Carbohydrate-Protein Interactions, Methods in Molecular Biology <span class="shaded">[[doi](https://doi.org/10.1007/978-1-0716-3151-5_19)]</span>
   
-  - **Introduction and transmission of SARS-CoV-2 lineage B. 1.1.7, Alpha variant, in Denmark**  
+  - **Introduction and transmission of SARS-CoV-2 lineage B.1.1.7, Alpha variant, in Denmark**  
     _TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins> (The Danish COVID-19 Genome Consortium), Mads Albertsen_  
     BMC Genome Medicine 2022 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
   
