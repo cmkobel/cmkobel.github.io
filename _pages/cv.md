@@ -14,7 +14,8 @@ redirect_from:
 
 ## 2021 - 2025: PhD degree in holo-omics
 
-### Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway. The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope.###
+**The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope.**  
+**Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.**
   - Showcased multi-omic integration in defense: "Rumen-Centric Assembly of the Cattle Holobiont".
   - Demonstrated teaching skills in trial lecture: "The origin, evolution and physiological role of hydrogenosomes in their protist hosts".
   - Received the degree: philosophiae doctor (ph.d.).
@@ -34,7 +35,7 @@ redirect_from:
   - More than one year full time equivalents in bioinformatics courses (at BiRC).
   - Tutor for new students, years 2016 and 2018.
   - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
-  - Completed Bachelor project: "Copy Number Variation of Ampliconic Regions on Hominid X and Y chromosomes" 
+  - Bachelor project: "Copy Number Variation of Ampliconic Regions on Hominid X and Y chromosomes" 
 
 
 # Employments
