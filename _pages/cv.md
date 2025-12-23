@@ -39,6 +39,7 @@ redirect_from:
   - Exchange, 6 months at Manipal University (MAHE), Karnataka, India 2018.
   - Bachelor project: "Copy Number Variation of Ampliconic Regions on Hominid X and Y chromosomes" 
 
+---
 
 # Employments
 
@@ -89,6 +90,7 @@ redirect_from:
   - Consulting clinicians in interpreting molecular infection tracking of pathogens.
   - Teaching and communicating across a diverse field of professionals.
 
+---
 
 ## Summary of skills
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
