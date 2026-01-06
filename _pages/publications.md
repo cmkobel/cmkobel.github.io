@@ -78,7 +78,8 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 
 ---
 
-Scholar also has an up-to-date list of my publications with more stats: [scholar.google.com/citations?user=J9G72msAAAAJ](https://scholar.google.com/citations?user=J9G72msAAAAJ)
+Scholar also has an up-to-date list of my publications with more stats:  
+[scholar.google.com/citations?user=J9G72msAAAAJ](https://scholar.google.com/citations?user=J9G72msAAAAJ)
 
   
     
