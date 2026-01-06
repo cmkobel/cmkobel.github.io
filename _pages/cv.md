@@ -48,6 +48,7 @@ redirect_from:
 **Plant Molecular Biology,**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
   - Multi-omics integration.
+  - ENSA team member https://www.ensa.ac.uk/team/carl-m-kobel/
 
 ## June 2023 - July 2025: Bioinformatics Consultant (part time)
 
