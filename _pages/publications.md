@@ -47,7 +47,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
     _TY Michaelsen, M Bennedbæk, LE Christiansen, MSF Jørgensen, CH Møller, EA Sørensen, S Knutsson, J Brandt, TBN Jensen, C Chiche-Lapierre, EF Collados, T Sørensen, C Petersen, V Le-Quy, M Sereika, FT Hansen, M Rasmussen, J Fonager, SM Karst, RL Marvig, M Stegger, RN Sieber, R Skov, R Legarth, TG Krause, A Fomsgaard, <ins>DCGC</ins> (The Danish COVID-19 Genome Consortium), Mads Albertsen_  
     BMC Genome Medicine 2022 <span class="shaded">[[doi](https://doi.org/10.1186/s13073-022-01045-7)]</span>  
   
-  - **Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B. 1.1.7 in Denmark: an observational cohort study**  
+  - **Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B.1.1.7 in Denmark: an observational cohort study**  
     _P Bager, J Wohlfahrt, J Fonager, M Rasmussen, M Albertsen, TY Michaelsen, CH Møller, S Ethelberg, R Legarth, MSF Button, S Gubbels, M Voldstedlund, K Mølbak, R Leo Skov, A Fomsgaard, TG Krause, <ins>DCGC</ins> (The Danish Covid-19 Genome Consortium)_  
     The Lancet Infectious Diseases 2021 <span class="shaded">[[doi](https://doi.org/10.1016/S1473-3099(21)00290-5)]</span>  
   
