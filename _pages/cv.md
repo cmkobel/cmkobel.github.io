@@ -12,7 +12,7 @@ redirect_from:
 
 # Studies
 
-## 2021 - 2025: PhD degree in holo-omics
+## 2021 - 2025: PhD degree in Holo-omics
 
 **The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope,**  
 **Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.**
@@ -60,7 +60,7 @@ redirect_from:
   - Teaching and scientific communication at Aarhus University Hospital.
 
 
-## August 2021 - January 2025: PhD fellow
+## August 2021 - January 2025: PhD Fellow
 
 **The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope,**  
 **Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.**
