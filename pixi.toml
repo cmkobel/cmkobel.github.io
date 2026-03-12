@@ -1,0 +1,19 @@
+[workspace]
+authors = ["Carl M. Kobel <cmkobel@mbg.au.dk>"]
+channels = ["conda-forge"]
+name = "cmkobel.github.io"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+install = "gem install bundler && bundle install"
+serve = "bundle exec jekyll serve -l -H localhost"
+build = "bundle exec jekyll build"
+
+[dependencies]
+ruby = ">=3.1"
+c-compiler = ">=1.0"
+cxx-compiler = ">=1.0"
+make = ">=4.0"
+pkg-config = ">=0.29"
+openssl = ">=3.0"
