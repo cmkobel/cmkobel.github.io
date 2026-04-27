@@ -27,8 +27,8 @@ I'm a bioinformatician in multi-omics integration seeking to distill biological 
   - "CompareM2 is a genomes-to-report pipeline", Guest presentation at Center for Evolutionary Hologenomics, University of Copenhagen 2024, Copenhagen DK <span class="shaded">[[so-me](https://web.archive.org/web/20250108150357/https://www.linkedin.com/posts/center-for-evolutionary-hologenomics_hologenomics-activity-7270049447198302208-XJXz)]</span>
   - "Holo-omic Workflow Utilizing Network Analysis Reveals Compositional Bistability Between Rumen Microbiomes", Presentation at Applied Hologenomics Conference 2024, Copenhagen DK <span class="shaded">[[youtube](https://www.youtube.com/watch?v=gucJB-GG0WQ) \| [abstract](https://web.archive.org/web/20250108152557/https://www.appliedhologenomicsconference.eu/abstracts.html)]</span>
   - "Holo-omic network analysis reveals bistability in the rumen microbiome", Presentation at Congress on Gastrointestinal Function 2024, Urbana-Champaign USA <span class="shaded">[[abstract](https://www.congressgastrofunction.org/proceedings/2024_Congress_on_GI_Function.pdf)]</span>
-  - "Holo-omics and host-microbiome interactions in the herbivore rumen", Poster and pitch at Australian Microbial Ecology Conference 2022, Melbourne Australia <span class="shaded">[[abstract](https://web.archive.org/web/20241020231612/https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540)]</span>
-  - "Holo-omics and host-microbiome interactions in the herbivore rumen", Poster at International Society of Microbial Ecology 2022, Lausanne Switzerland
+  - "Holo-omics and host-microbiome interactions in the herbivore rumen", Poster and pitch at Australian Microbial Ecology Conference 2022, Melbourne AU <span class="shaded">[[abstract](https://web.archive.org/web/20241020231612/https://ausme-2022.p.asnevents.com.au/days/2022-11-07/abstract/86540)]</span>
+  - "Holo-omics and host-microbiome interactions in the herbivore rumen", Poster at International Society of Microbial Ecology 2022, Lausanne CH
   
 
 ### Teaching
