@@ -15,6 +15,10 @@ redirect_from:
 
 Sorted by newest first. My name or the unit representing my name is <ins>underlined</ins>. 
 
+  - **OmniCorr: an R-package for visualizing putative host-microbiome interactions using multi-omics data**  
+    _Shashank Gupta, Veronica Quarato, Wanxin Lai, <ins>Carl M Kobel</ins>, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten_  
+    Bioinformatics Advances <span class="shaded">[[doi](https://doi.org/10.1093/bioadv/vbag057)]</span>  
+
   - **Metabolic Capabilities of Key Rumen Microbiota Drive Methane Emissions in Cattle**  
     _W Lai, A Alberdi, AVP de León, <ins>CM Kobel</ins>, VTE Aho, A Leu, R Roehe, PB Pope, T Hvidsten_  
     ASM mSystems 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/pubs/lai-et-al-2025.pdf) \| [doi](https://doi.org/10.1128/msystems.00601-25)]</span>  
@@ -68,11 +72,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 
   - **Rumen transfaunation between low- and high-methane-yielding dairy cows reveals asymmetric microbiome reconstitution patterns: a pilot study**  
     Puchun Niu, <ins>Carl Kobel</ins>, Velma T. E. Aho, Clementina Alvarez, Egil Prestløkken, Peter Lund, Adrian Omar Maynez-Perez, Phil B. Pope, Angela Schwarm  
-    bioRχiv 2026 <span class="shaded">[[doi](https://doi.org/10.64898/2026.04.07.716947)]</span>  
-
-  - **OmniCorr: An R-package for visualizing putative host-microbiota interactions using multi-omics data**  
-    _Shashank Gupta, Wanxin Lai, <ins>Carl M Kobel</ins>, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten_  
-    bioRχiv 2025 <span class="shaded">[[doi](https://doi.org/10.1101/2025.07.01.662509)]</span>  
+    bioRχiv 2026 <span class="shaded">[[doi](https://doi.org/10.64898/2026.04.07.716947)]</span>
   
   - **Predicting microbial genome-scale metabolic networks directly from 16S rRNA gene sequences**  
     _Ove Øyås, <ins>Carl M Kobel</ins>, Jon Olav Vik, Phillip B Pope_  
