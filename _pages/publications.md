@@ -17,7 +17,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 
   - **OmniCorr: an R-package for visualizing putative host-microbiome interactions using multi-omics data**  
     _Shashank Gupta, Veronica Quarato, Wanxin Lai, <ins>Carl M Kobel</ins>, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten_  
-    Bioinformatics Advances <span class="shaded">[[doi](https://doi.org/10.1093/bioadv/vbag057)]</span>  
+    Bioinformatics Advances 2026 <span class="shaded">[[doi](https://doi.org/10.1093/bioadv/vbag057)]</span>  
 
   - **Metabolic Capabilities of Key Rumen Microbiota Drive Methane Emissions in Cattle**  
     _W Lai, A Alberdi, AVP de León, <ins>CM Kobel</ins>, VTE Aho, A Leu, R Roehe, PB Pope, T Hvidsten_  
