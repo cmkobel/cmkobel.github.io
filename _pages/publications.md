@@ -66,6 +66,10 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
 
 ## Public pre-prints
 
+  - **Rumen transfaunation between low- and high-methane-yielding dairy cows reveals asymmetric microbiome reconstitution patterns: a pilot study**
+    Puchun Niu, <ins>Carl Kobel</ins>, Velma T. E. Aho, Clementina Alvarez, Egil Prestløkken, Peter Lund, Adrian Omar Maynez-Perez, Phil B. Pope, Angela Schwarm
+    bioRχiv 2026 <span class="shaded">[[doi](https://doi.org/10.64898/2026.04.07.716947)]</span>  
+
   - **OmniCorr: An R-package for visualizing putative host-microbiota interactions using multi-omics data**  
     _Shashank Gupta, Wanxin Lai, <ins>Carl M Kobel</ins>, Velma TE Aho, Arturo Vera-Ponce de León, Sabina Leanti La Rosa, Simen R Sandve, Phillip B Pope, Torgeir R Hvidsten_  
     bioRχiv 2025 <span class="shaded">[[doi](https://doi.org/10.1101/2025.07.01.662509)]</span>  
