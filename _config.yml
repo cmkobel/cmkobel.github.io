@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Carl Mathias Kobel"
+title                    : "Carl Mathias Mølby Kobel"
 title_separator          : "-"
-name                     : &name "Carl Mathias Kobel"
+name                     : &name "Carl Mathias Mølby Kobel"
 description              : &description "Bioinformatician"
 url                      : https://cmkobel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Carl M. Kobel"
+  name             : "Carl M. M. Kobel"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatician in Multi-Omics Integration" #"Bioinformatician with a focus on microbiology and holo-omics"
   location         : "Denmark"
