@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Carl M. M. Kobel"
+  name             : "Carl MM Kobel"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatician in Multi-Omics Integration" #"Bioinformatician with a focus on microbiology and holo-omics"
-  location         : "Denmark"
+  location         : "Odder, Denmark"
   employer         : "Aarhus University"
   uri              : # URL
   email            : #"kobel at protonmail.com" 
