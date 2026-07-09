@@ -199,6 +199,20 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  /* Inline SVG logos (e.g. Codeberg) sized to behave like a `fa-fw` glyph:
+     a 1em mark centered in a 1.25em fixed-width box, baseline-aligned. */
+  .svg-inline-icon {
+    width: 1.25em;
+    height: 1em;
+    vertical-align: -0.125em;
+    fill: currentColor;
+    color: #000;
+  }
+
+  .svg-codeberg {
+    color: $codeberg-color;
+  }
+
   .fa-bluesky,
   .fa-bluesky-square {
     color: $bluesky-color;

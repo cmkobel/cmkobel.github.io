@@ -27,6 +27,7 @@ author:
   bio              : "Bioinformatician in Multi-Omics Integration" #"Bioinformatician with a focus on microbiology and holo-omics"
   location         : "Denmark"
   employer         : "Aarhus University"
+  employer_url     : "https://mbg.au.dk/en/contact/staff-and-students/show/person/cmkobel@mbg.au.dk"
   uri              : # URL
   email            : #"kobel at protonmail.com" 
 
@@ -44,7 +45,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "cmkobel"
-  kaggle           : # Username  
+  codeberg         : "cmkobel"
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -152,6 +154,8 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .pixi
+  - vendor/bundle
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
