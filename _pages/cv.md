@@ -99,5 +99,7 @@ redirect_from:
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake.
   - Cryptographic handling of sensitive data.
-  - Hardware/software/network/user integration and design of workstations for bioinformatic needs running GNU/Linux.
+  - Specification and configuration of computational hardware for bioinformatic needs running GNU/Linux.
   - Packaging and containerization using Conda, Docker, Apptainer.
+  - Insight into microcontroller and power electronics.
+  - Design of agentic coding skills.
