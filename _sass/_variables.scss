@@ -103,9 +103,13 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+/* Darker shade of $info-color so links clear WCAG AA (4.71:1) on the
+   #fff5f5 background; $info-color itself stays bright for buttons/notices. */
+$link-color                 : #26788f;
 $link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+/* Darken (not lighten) on visit — a lightened visited state was ~1.55:1,
+   effectively invisible on the light background. */
+$link-color-visited         : mix(#000, $link-color, 12%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 

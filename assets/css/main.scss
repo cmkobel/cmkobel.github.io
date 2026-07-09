@@ -43,14 +43,19 @@
 
 /* Carl */
 
+/* Reference clusters after a citation, e.g. [pdf | doi | repo], are visually
+   secondary. De-emphasise them via the bracket/pipe punctuation (a muted but
+   readable gray) rather than by washing out the links themselves — the old
+   #ABCFDD links sat at ~1.55:1 on the light background and were effectively
+   invisible. Links now use the standard, AA-compliant link colors. */
 span.shaded {
-  color: #b5b5b4;
+  color: mix(#000, $gray, 20%); // ~5.3:1 on #fff5f5 — clearly secondary, still legible
 }
 
 span.shaded a {
-  color: #ABCFDD;
+  color: $link-color;
 }
 
 span.shaded a:hover {
-  color: #52adc8;
+  color: $link-color-hover;
 }

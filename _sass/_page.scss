@@ -74,6 +74,10 @@
 
   a {
     text-decoration: underline;
+    /* Enlarge the touch target of inline links (pdf | doi | repo …) toward the
+       WCAG 2.5.8 minimum. Padding on an inline element grows its hit area
+       without shifting the surrounding text flow. */
+    padding: 0.25em 0.12em;
 
     &:hover {
       text-decoration: underline;
