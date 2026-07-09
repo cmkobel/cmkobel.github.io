@@ -10,6 +10,13 @@ install = "gem install bundler && bundle install"
 serve = "bundle exec jekyll serve -l -H localhost"
 build = "bundle exec jekyll build"
 
+# conda's bundled linker (ld64) can't parse the newest macOS SDK's libSystem
+# stubs, so native gem builds fail with "_printf undefined". Pin the build to
+# an older, compatible Command Line Tools SDK so extensions compile+link.
+[activation.env]
+SDKROOT = "/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk"
+CONDA_BUILD_SYSROOT = "/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk"
+
 [dependencies]
 ruby = ">=3.1"
 c-compiler = ">=1.0"
