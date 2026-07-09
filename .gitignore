@@ -14,3 +14,7 @@ package-lock.json
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store

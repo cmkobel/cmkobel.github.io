@@ -33,7 +33,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
   
   - **Integrating host and microbiome biology using holo-omics**  
     _<ins>CM Kobel</ins>, J Merkesvik, IMT Burgos, W Lai, O Øyås, PB Pope, TR Hvidsten, VTE Aho_  
-    RSC Molecular Omics 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobel_Integrating_2024.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>  
+    RSC Molecular Omics 2024 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/kobel_Integrating_2024.pdf) \| [doi](https://doi.org/10.1039/D4MO00017J)]</span>  
   
   - **PhD-thesis: Rumen-Centric Assembly of the Cattle Holobiont**  
     _<ins>CM Kobel</ins>_  
