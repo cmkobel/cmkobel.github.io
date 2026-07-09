@@ -102,4 +102,4 @@ redirect_from:
   - Specification and configuration of computational hardware for bioinformatic needs running GNU/Linux.
   - Packaging and containerization using Conda, Docker, Apptainer.
   - Insight into microcontroller and power electronics.
-  - Design of agentic coding skills.
+  - Design of agentic coding skills that automate research-computing workflows.
