@@ -28,6 +28,7 @@ author:
   location         : "Denmark"
   employer         : "Aarhus University"
   employer_url     : "https://mbg.au.dk/en/contact/staff-and-students/show/person/cmkobel@mbg.au.dk"
+  employer_logo    : "/images/au-logo.png" # optional; falls back to a generic building icon
   uri              : # URL
   email            : #"kobel at protonmail.com" 
 

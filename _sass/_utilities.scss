@@ -187,9 +187,16 @@ body:hover .visually-hidden button {
   vertical-align: middle;
 }
 
-/* Adjust this setting to control the space between an icon and text in the sidebar */
-.icon-pad-right {
-  padding-right: 0.5em;
+/* Fixed-width icon slot: every sidebar icon (font glyph, inline SVG, or image)
+   occupies the same width and is centered within it, so all labels start at the
+   same horizontal position. The 0.5em gap to the text is the trailing margin.
+   Scoped to .author__urls so it outranks Font Awesome's / Academicons' own
+   fixed-width classes (fa-fw / ai-fw) and applies uniformly. */
+.author__urls .icon-pad-right {
+  display: inline-block;
+  width: 1.5em;
+  margin-right: 0.5em;
+  text-align: center;
 }
 
 /* social icons*/
@@ -199,10 +206,9 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
-  /* Inline SVG logos (e.g. Codeberg) sized to behave like a `fa-fw` glyph:
-     a 1em mark centered in a 1.25em fixed-width box, baseline-aligned. */
+  /* Inline SVG logos (e.g. Codeberg). Width comes from the .icon-pad-right slot;
+     height keeps the mark at ~1em and the viewBox preserves its aspect ratio. */
   .svg-inline-icon {
-    width: 1.25em;
     height: 1em;
     vertical-align: -0.125em;
     fill: currentColor;
@@ -211,6 +217,14 @@ body:hover .visually-hidden button {
 
   .svg-codeberg {
     color: $codeberg-color;
+  }
+
+  /* Employer logo image (e.g. the AU mark). Width comes from the .icon-pad-right
+     slot; object-fit keeps the logo's aspect ratio inside that slot. */
+  .employer-logo {
+    height: 1.15em;
+    object-fit: contain;
+    vertical-align: -0.25em;
   }
 
   .fa-bluesky,

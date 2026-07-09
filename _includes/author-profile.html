@@ -27,7 +27,8 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop">{% if author.employer_url %}<a href="{{ author.employer_url }}"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a>{% else %}<i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}{% endif %}</li>
+        {% capture employer_icon %}{% if author.employer_logo %}<img src="{{ base_path }}{{ author.employer_logo }}" class="employer-logo icon-pad-right" alt="" aria-hidden="true">{% else %}<i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{% endif %}{% endcapture %}
+        <li class="author__desktop">{% if author.employer_url %}<a href="{{ author.employer_url }}">{{ employer_icon }}{{ author.employer }}</a>{% else %}{{ employer_icon }}{{ author.employer }}{% endif %}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
