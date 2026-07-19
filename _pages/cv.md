@@ -47,9 +47,8 @@ redirect_from:
 
 **Plant Molecular Biology,**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
-  - Multi-omics integration.
+  - Multi-omics integration using deep learning.
   - Spatial transcriptomics analysis.
-  - Deep learning.
   - Hardware specific optimizations.
   - ENSA team member [ensa.ac.uk/team/carl-m-kobel](https://www.ensa.ac.uk/team/carl-m-kobel/)
 
@@ -106,4 +105,5 @@ redirect_from:
   - Packaging and containerization using Conda and Docker based platforms.
   - Insight into microcontroller and power electronics.
   - Design of agentic coding skills for automation of compute intensive research workflows.
+  - Scientific communication: writing, teaching, and presenting.
 
