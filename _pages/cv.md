@@ -102,7 +102,7 @@ redirect_from:
   - Parallelization of big-data workflows using Snakemake.
   - Cryptographic handling of sensitive data.
   - Specification and configuration of computational hardware for bioinformatic needs running GNU/Linux.
-  - Packaging and containerization using Conda and Docker based platforms.
+  - Version control, packaging and containerization using Git, Conda and Docker based platforms.
   - Insight into microcontroller and power electronics.
   - Design of agentic coding skills for automation of compute intensive research workflows.
   - Scientific communication: writing, teaching, and presenting.
