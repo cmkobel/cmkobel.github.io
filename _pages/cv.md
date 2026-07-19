@@ -97,7 +97,7 @@ redirect_from:
 
 ## Summary of skills
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
-  - Multi-omic integration using deep learning, applied statistics, dimensionality reduction, network analysis, modeling, and visualization.
+  - Multi-omic integration using deep learning, dimensionality reduction, network analysis, modeling, and visualization.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
   - Parallelization of big-data workflows using Snakemake, and integration on high performance
 computing clusters (HPC) using Slurm.
