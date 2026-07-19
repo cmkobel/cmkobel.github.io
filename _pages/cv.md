@@ -99,7 +99,8 @@ redirect_from:
   - A deep understanding of the technical challenges of researching molecular biology and the symbiotic relationships in a wide radiation of species.
   - Multi-omic integration using deep learning, applied statistics, dimensionality reduction, network analysis, modeling, and visualization.
   - Programming languages, sorted by descending fluency: Python, R, Bash, C, Java.
-  - Parallelization of big-data workflows using Snakemake.
+  - Parallelization of big-data workflows using Snakemake, and integration on high performance
+computing clusters (HPC) using Slurm.
   - Cryptographic handling of sensitive data.
   - Specification and configuration of computational hardware for bioinformatic needs running GNU/Linux.
   - Version control, packaging and containerization using Git, Conda and Docker based platforms.
