@@ -39,7 +39,7 @@ Sorted by newest first. My name or the unit representing my name is <ins>underli
     _<ins>CM Kobel</ins>_  
     Norges Miljø- og Biovitenskapelige Universitet Bibliotek 2025 <span class="shaded">[[pdf](https://raw.githubusercontent.com/cmkobel/cmkobel.github.io/refs/heads/master/files/thesis_merge__170x240_-28.pdf) \| [uri](https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3173724)]</span>  
   
-  - **First case of bacteraemia caused by Dielma fastidiosa in a patient hospitalized with diverticulitis**  
+  - **First case of bacteraemia caused by _Dielma fastidiosa_ in a patient hospitalized with diverticulitis**  
     _B Forman-Ankjaer, F Hvid-Jensen, <ins>CM Kobel</ins>, T Greve_  
     Acta pathologica, microbiologica, et immunologica Scandinavica 2024 <span class="shaded">[[doi](https://doi.org/10.1111/apm.13367)]</span>  
   
