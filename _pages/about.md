@@ -46,6 +46,7 @@ Contributor to the upstream code base of the following open source projects.
 
   - [CompareM2 - Genomes-to-report pipeline ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
   - [Snakemake - Workflow management system ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
+  - [GTDB-Tk ![GitHub Repo stars](https://img.shields.io/github/stars/ecogenomics/gtdbtk)](https://ecogenomics.github.io/GTDBTk/) 
 
 
 #### Conda recipe maintainer
