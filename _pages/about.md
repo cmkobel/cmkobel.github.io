@@ -40,9 +40,9 @@ I'm a bioinformatician in multi-omics integration seeking to distill biological 
 ### Miscellaneous
 
 
-#### Open source wizardry
+#### Open source contributions
 
-Contributor to the upstream code base of the following open source projects.
+Contributor to the code base of the following open source projects.
 
   - [CompareM2 - Genomes-to-report pipeline](https://comparem2.readthedocs.io) 
   - [Snakemake - Workflow management system](https://snakemake.github.io/) 
