@@ -2,7 +2,7 @@
 authors = ["Carl M. Kobel <cmkobel@mbg.au.dk>"]
 channels = ["conda-forge"]
 name = "cmkobel.github.io"
-platforms = ["osx-arm64"]
+platforms = ["osx-arm64", "linux-64", "linux-aarch64"]
 version = "0.1.0"
 
 [tasks]
@@ -13,12 +13,12 @@ build = "bundle exec jekyll build"
 # conda's bundled linker (ld64) can't parse the newest macOS SDK's libSystem
 # stubs, so native gem builds fail with "_printf undefined". Pin the build to
 # an older, compatible Command Line Tools SDK so extensions compile+link.
-[activation.env]
+[target.osx-arm64.activation.env]
 SDKROOT = "/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk"
 CONDA_BUILD_SYSROOT = "/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk"
 
 [dependencies]
-ruby = ">=3.1"
+ruby = "3.4.*"  # Jekyll 3.10 (what GitHub Pages runs) breaks on Ruby 4
 c-compiler = ">=1.0"
 cxx-compiler = ">=1.0"
 make = ">=4.0"

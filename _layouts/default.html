@@ -1,13 +1,27 @@
+{%- if page.url == "/" or page.title == nil -%}
+  {%- assign page_title = page.title | default: site.title -%}
+{%- else -%}
+  {%- capture page_title %}{{ page.title }} – {{ site.title }}{% endcapture -%}
+{%- endif -%}
+{%- assign description = page.description | default: site.description | strip_html | strip_newlines -%}
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
-<title>{% if page.url == "/" or page.title == nil %}{{ page.title | default: site.title }}{% else %}{{ page.title }} &ndash; {{ site.title }}{% endif %}</title>
-<meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | escape }}">
+<title>{{ page_title | escape }}</title>
+<meta name="description" content="{{ description | escape }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:title" content="{{ page_title | escape }}">
+<meta property="og:description" content="{{ description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ site.data.profile.photo | absolute_url }}">
+<meta property="og:image:alt" content="Portrait of {{ site.title | escape }}">
+<meta name="twitter:card" content="summary">
 <style>
 body { max-width: 42em; margin: 0 auto; padding: 0 1em 1em; line-height: 1.45; overflow-wrap: break-word; }
 h1, h2, h3, h4 { line-height: 1.2; }
@@ -16,10 +30,12 @@ img { max-width: 100%; height: auto; }
 ul { padding-left: 1.5em; }
 li + li { margin-top: 0.3em; }
 .portrait { float: right; width: 30%; max-width: 10em; margin: 0 0 1em 1em; }
+@media print { header, footer, nav { display: none; } }
 </style>
 </head>
 <body>
 
+<header>
 <nav>
 <p>
 {%- for link in site.data.navigation -%}
@@ -29,6 +45,7 @@ li + li { margin-top: 0.3em; }
 </p>
 </nav>
 <hr>
+</header>
 
 <main>
 {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
@@ -36,8 +53,8 @@ li + li { margin-top: 0.3em; }
 {{ content }}
 </main>
 
-<hr>
 <footer>
+<hr>
 <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. No cookies. No tracking. No AI content.<br>
 Last updated {{ site.time | date: '%-d %B %Y' }}. <a href="{{ '/sitemap/' | relative_url }}">Sitemap</a>. <a href="#top">Back to top</a>.</small></p>
 </footer>

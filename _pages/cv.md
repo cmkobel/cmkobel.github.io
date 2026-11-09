@@ -5,10 +5,12 @@ redirect_from:
   - /resume
 ---
 
+<nav markdown="1">
 **Contents**
 
 * Table of contents
 {:toc}
+</nav>
 
 ## Studies
 
@@ -56,7 +58,7 @@ redirect_from:
   - Multi-omics integration using deep learning.
   - Spatial transcriptomics analysis.
   - Hardware specific optimizations.
-  - ENSA team member [ensa.ac.uk/team/carl-m-kobel](https://www.ensa.ac.uk/team/carl-m-kobel/)
+  - ENSA team member [ensa.ac.uk/team/carl-m-kobel](https://web.archive.org/web/20261109141333/https://www.ensa.ac.uk/team/carl-m-kobel/)
 
 ### June 2023 - July 2025: Bioinformatics Consultant (part time)
 

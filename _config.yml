@@ -15,12 +15,10 @@ include:
   - _pages
   - files
 exclude:
-  - CONTRIBUTING.md
+  - .pixi
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - local
-  - markdown_generator
   - node_modules
   - pixi.lock
   - pixi.toml

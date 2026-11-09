@@ -44,18 +44,18 @@ I'm a bioinformatician in multi-omics integration seeking to distill biological 
 
 Contributor to the upstream code base of the following open source projects.
 
-  - [CompareM2 - Genomes-to-report pipeline ![GitHub Repo stars](https://img.shields.io/github/stars/cmkobel/comparem2)](https://comparem2.readthedocs.io) 
-  - [Snakemake - Workflow management system ![GitHub Repo stars](https://img.shields.io/github/stars/snakemake/snakemake)](https://snakemake.github.io/) 
-  - [GTDB-Tk ![GitHub Repo stars](https://img.shields.io/github/stars/ecogenomics/gtdbtk)](https://ecogenomics.github.io/GTDBTk/) 
+  - [CompareM2 - Genomes-to-report pipeline](https://comparem2.readthedocs.io) 
+  - [Snakemake - Workflow management system](https://snakemake.github.io/) 
+  - [GTDB-Tk](https://ecogenomics.github.io/GTDBTk/) 
 
 
 #### Conda recipe maintainer
 
 Conda recipes maintainer for the following packages.
 
-  - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/comparem2)](https://bioconda.github.io/recipes/comparem2/README.html)
-  - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq) [![Conda Downloads](https://img.shields.io/conda/d/bioconda/gapseq)](https://bioconda.github.io/recipes/gapseq/README.html)
-  - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-chnosz)](https://anaconda.org/conda-forge/r-chnosz)
-  - [conda-forge::r-cpprouting](https://anaconda.org/conda-forge/r-cpprouting) [![Conda Downloads](https://img.shields.io/conda/d/conda-forge/r-cpprouting)](https://anaconda.org/conda-forge/r-cpprouting)
-  - bioconda::assemblycomparator2 [![Conda Downloads](https://img.shields.io/conda/d/bioconda/assemblycomparator2)](https://anaconda.org/bioconda/assemblycomparator2) (archived)
+  - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2)
+  - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq)
+  - [conda-forge::r-chnosz](https://anaconda.org/conda-forge/r-chnosz)
+  - [conda-forge::r-cpprouting](https://anaconda.org/conda-forge/r-cpprouting)
+  - [bioconda::assemblycomparator2](https://anaconda.org/bioconda/assemblycomparator2) (archived)
 
