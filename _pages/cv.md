@@ -43,7 +43,13 @@ redirect_from:
 
 ## Employments
 
-### December 2025 - Present: Postdoctoral Researcher
+### December 2026 - Present: Postdoctoral Researcher
+**Clinical Medicine,**  
+**Faculty of Health, Aarhus University (AU), Denmark.**
+  - Characterization of antimicrobial resistance in pathogenic bacteria.
+
+
+### December 2025 - November 2026: Postdoctoral Researcher
 
 **Plant Molecular Biology,**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
