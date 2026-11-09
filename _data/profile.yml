@@ -1,0 +1,25 @@
+# The short profile shown at the top of the front page.
+photo        : /images/profile.jpg        # full size, opened when the photo is clicked
+photo_small  : /images/profile-small.jpg  # shown on the page (320 px wide)
+bio          : "Bioinformatician in Multi-Omics Integration"
+employer     : "Aarhus University"
+employer_url : "https://mbg.au.dk/en/contact/staff-and-students/show/person/cmkobel@mbg.au.dk"
+location     : "Denmark"
+
+links:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=J9G72msAAAAJ
+  - title: ORCID
+    url: https://orcid.org/0000-0002-4461-1159
+  - title: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/?term=Kobel+CM&cauthor_id=37149537
+  - title: GitHub
+    url: https://github.com/cmkobel
+  - title: Codeberg
+    url: https://codeberg.org/cmkobel
+  - title: GitLab
+    url: https://gitlab.com/cm2kobel
+  - title: Bluesky
+    url: https://bsky.app/profile/cmkobel.bsky.social
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/carl-mm-kobel-0635893b4

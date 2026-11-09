@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{%- assign profile = site.data.profile -%}
+<a href="{{ profile.photo | relative_url }}"><img class="portrait" src="{{ profile.photo_small | relative_url }}" width="320" height="315" alt="Portrait of {{ site.title }}"></a>
+
+<p>{{ profile.bio }}<br>
+<a href="{{ profile.employer_url }}">{{ profile.employer }}</a>, {{ profile.location }}</p>
+
+<p>
+{%- for link in profile.links %}
+<a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %} |{% endunless %}
+{%- endfor %}
+</p>
+
+{{ content }}

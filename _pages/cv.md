@@ -1,18 +1,18 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Contents**
 
+* Table of contents
+{:toc}
 
-# Studies
+## Studies
 
-## 2021 - 2025: PhD degree in Holo-omics
+### 2021 - 2025: PhD degree in Holo-omics
 
 **The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope,**  
 **Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.**
@@ -20,7 +20,7 @@ redirect_from:
   - Demonstrated teaching skills in trial lecture: "The origin, evolution and physiological role of hydrogenosomes in their protist hosts".
   - Received the degree: philosophiae doctor (ph.d.).
 
-## 2018 - 2020: Master’s degree in Bioinformatics
+### 2018 - 2020: Master’s degree in Bioinformatics
 
 **Bioinformatics Research Centre (BiRC),**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
@@ -30,7 +30,7 @@ redirect_from:
   - Completion of various scientific projects, including sex-chromosome evolution as well as parallel optimization of linear time algorithms.
 
 
-## 2015 - 2018: Bachelor’s degree in Biology
+### 2015 - 2018: Bachelor’s degree in Biology
 
 **Department of Bioscience,**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
@@ -41,9 +41,9 @@ redirect_from:
 
 ---
 
-# Employments
+## Employments
 
-## December 2025 - Present: Postdoctoral Researcher
+### December 2025 - Present: Postdoctoral Researcher
 
 **Plant Molecular Biology,**  
 **Faculty of Natural Sciences, Aarhus University (AU), Denmark.**
@@ -52,7 +52,7 @@ redirect_from:
   - Hardware specific optimizations.
   - ENSA team member [ensa.ac.uk/team/carl-m-kobel](https://www.ensa.ac.uk/team/carl-m-kobel/)
 
-## June 2023 - July 2025: Bioinformatics Consultant (part time)
+### June 2023 - July 2025: Bioinformatics Consultant (part time)
 
 **Kobelomics Enk., Ås, Norway &**  
 **Kobelomics PMV, Odder, Denmark.**
@@ -62,7 +62,7 @@ redirect_from:
   - Teaching and scientific communication at Aarhus University Hospital.
 
 
-## August 2021 - January 2025: PhD Fellow
+### August 2021 - January 2025: PhD Fellow
 
 **The Microbial Ecology and Meta-Omics (MEMO) Group, led by Prof. Phillip B. Pope,**  
 **Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.**
@@ -83,7 +83,7 @@ redirect_from:
   - Interpersonal skills and collaboration.
 
 
-## July 2020 - July 2021: Lead Bioinformatician
+### July 2020 - July 2021: Lead Bioinformatician
 
 **Department of Clinical Microbiology,**  
 **Aarhus University Hospital, Skejby, Denmark.**
