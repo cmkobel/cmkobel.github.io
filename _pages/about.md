@@ -51,7 +51,7 @@ Contributor to the code base of the following open source projects.
 
 #### Conda recipe maintainer
 
-Conda recipes maintainer for the following packages.
+Recipe maintainer for the following packages.
 
   - [bioconda::comparem2](https://anaconda.org/bioconda/comparem2)
   - [bioconda::gapseq](https://anaconda.org/bioconda/gapseq)
