@@ -46,7 +46,7 @@ Contributor to the code base of the following open source projects.
 
   - [CompareM2 - Genomes-to-report pipeline](https://comparem2.readthedocs.io) 
   - [Snakemake - Workflow management system](https://snakemake.github.io/) 
-  - [GTDB-Tk](https://ecogenomics.github.io/GTDBTk/) 
+  - [GTDB-Tk - Taxonomic classification](https://ecogenomics.github.io/GTDBTk/) 
 
 
 #### Conda recipe maintainer
